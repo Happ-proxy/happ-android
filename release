@@ -1,0 +1,52 @@
+{
+  "app":"happ_android",
+  "ret": 1,
+  "msg": "ok",
+  "data": "1.10.0",
+  "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ.apk",
+  "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
+  "filenum": 1093,
+  "apk": {
+    "block": [
+    ],
+    "beta": {
+      "version": "1.10.0",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ_beta.apk",
+      "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
+      "update": {
+        "nowarn": "1.9.0",
+        "warnonce": "1.9.0",
+        "warnweek": "1.9.0",
+        "warnalways": "1.9.0",
+        "updateonly": "0.0.1"
+      }
+    },
+    "stable": {
+      "version": "1.10.0",
+      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ.apk",
+      "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
+      "update": {
+        "nowarn": "1.9.0",
+        "warnonce": "1.9.0",
+        "warnweek": "1.9.0",
+        "warnalways": "1.9.0",
+        "updateonly": "0.0.1"
+      }
+    }
+  },
+  "google": {
+    "block": [
+    ],
+    "stable": {
+      "version": "1.0.0",
+      "details": "Welcome to new version of Happ Android application",
+      "update": {
+        "nowarn": "0.4.1",
+        "warnonce": "0.4.1",
+        "warnweek": "0.3.5",
+        "warnalways": "0.0.4",
+        "updateonly": "0.0.3"
+      }
+    }
+  }
+}
