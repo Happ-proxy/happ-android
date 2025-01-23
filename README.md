@@ -1,4 +1,5 @@
 # Happ - Proxy Utility
+<figure><img src="https://play-lh.googleusercontent.com/a3dR56g1viLgbtdBBu_NSEdDuWkqJFIn5XFFoc7lKXApkf-av4HI7fTn2NhBjxVmPFHf=w480-h960-rw" alt="Logo" width="200"><figcaption></figcaption></figure>
 
 | iOS                                                                        | Android                                                                                                   | Desktop                                                                                                              |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
