@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "1.10.0",
-  "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ.apk",
-  "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
-  "filenum": 1093,
+  "data": "1.11.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.11.0/Happ.apk",
+  "details": "-fix foreground notification for update subscription\n-fix ordering json subscription\n-bug fixes and performance improvements",
+  "filenum": 1094,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.10.0",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ_beta.apk",
-      "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
+      "version": "1.11.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.11.0/Happ_beta.apk",
+      "details": "-fix foreground notification for update subscription\n-fix ordering json subscription\n-bug fixes and performance improvements",
       "update": {
-        "nowarn": "1.9.0",
-        "warnonce": "1.9.0",
-        "warnweek": "1.9.0",
-        "warnalways": "1.9.0",
+        "nowarn": "1.10.0",
+        "warnonce": "1.10.0",
+        "warnweek": "1.10.0",
+        "warnalways": "1.10.0",
         "updateonly": "0.0.1"
       }
     },
     "stable": {
-      "version": "1.10.0",
-      "link": "https://github.com/FlyFrg/Happ_android_update/releases/download/1.10.0/Happ.apk",
-      "details": "-fix foreground notifications\n-update xray-core to 24.12.31\n-bug fixes and performance improvements",
+      "version": "1.11.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.11.0/Happ.apk",
+      "details": "-fix foreground notification for update subscription\n-fix ordering json subscription\n-bug fixes and performance improvements",
       "update": {
-        "nowarn": "1.9.0",
-        "warnonce": "1.9.0",
-        "warnweek": "1.9.0",
-        "warnalways": "1.9.0",
+        "nowarn": "1.10.0",
+        "warnonce": "1.10.0",
+        "warnweek": "1.10.0",
+        "warnalways": "1.10.0",
         "updateonly": "0.0.1"
       }
     }
