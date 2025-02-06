@@ -5,19 +5,19 @@
   "data": "1.11.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.11.0/Happ.apk",
   "details": "-fix foreground notification for update subscription\n-fix ordering json subscription\n-bug fixes and performance improvements",
-  "filenum": 1094,
+  "filenum": 1095,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.11.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.11.0/Happ_beta.apk",
-      "details": "-fix foreground notification for update subscription\n-fix ordering json subscription\n-bug fixes and performance improvements",
+      "version": "1.12.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.12.0/Happ_beta.apk",
+      "details": "- rework and update ALL settings menu\n- add functional and screen Statistics\n- add ICMP and TCP ping\n- add LastUpdated param in routing\n- add new url deeplink schemes",
       "update": {
-        "nowarn": "1.10.0",
-        "warnonce": "1.10.0",
-        "warnweek": "1.10.0",
-        "warnalways": "1.10.0",
+        "nowarn": "1.11.0",
+        "warnonce": "1.11.0",
+        "warnweek": "1.11.0",
+        "warnalways": "1.11.0",
         "updateonly": "0.0.1"
       }
     },
