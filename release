@@ -5,19 +5,19 @@
   "data": "1.11.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.11.0/Happ.apk",
   "details": "-fix foreground notification for update subscription\n-fix ordering json subscription\n-bug fixes and performance improvements",
-  "filenum": 1096,
+  "filenum": 1097,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "1.14.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.14.0/Happ_beta.apk",
-      "details": "- add DOU and DOH support in routing profiles\n- default geofiles change to Loyalsoldier\n- rework edit subscription dialog\n- rework manual server input\n- fake DNS move to routing\n- bug fixes and performance improvements",
+      "version": "1.16.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.16.0/Happ_beta.apk",
+      "details": "-Add \"Device\" section to \"About\" screen\n-Add \"Send HWID\" toggle to \"Subscription\" screen; it allows to pass X-HWID and X-Device-Info headers to providers\n-Update telegram support bot link\n-Add \"Reset User Settings\" confirmation dialog\n-Background activity restriction handling (\"Subscription\" screen)\n-Fix server selection when list is updated (now first is selected)",
       "update": {
-        "nowarn": "1.12.0",
-        "warnonce": "1.12.0",
-        "warnweek": "1.12.0",
-        "warnalways": "1.12.0",
+        "nowarn": "1.15.0",
+        "warnonce": "1.15.0",
+        "warnweek": "1.15.0",
+        "warnalways": "1.14.0",
         "updateonly": "1.10.0"
       }
     },
