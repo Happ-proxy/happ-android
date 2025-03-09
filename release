@@ -2,10 +2,10 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "1.16.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.16.0/Happ.apk",
-  "details": "- add DOU and DOH support in routing profiles\n- default geofiles change to Loyalsoldier\n- rework edit subscription dialog\n- rework manual server input\n- fake DNS move to routing\n- rework and update ALL settings menu\n- add functional and screen Statistics\n- add ICMP and TCP ping",
-  "filenum": 1101,
+  "data": "1.17.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.17.0/Happ.apk",
+  "details": "-fix import/update subscriptions",
+  "filenum": 1102,
   "apk": {
     "block": [
     ],
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "1.16.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.16.0/Happ.apk",
-      "details": "- add DOU and DOH support in routing profiles\n- default geofiles change to Loyalsoldier\n- rework edit subscription dialog\n- rework manual server input\n- fake DNS move to routing\n- rework and update ALL settings menu\n- add functional and screen Statistics\n- add ICMP and TCP ping",
+      "version": "1.17.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.17.0/Happ.apk",
+      "details": "-fix import/update subscriptions",
       "update": {
-        "nowarn": "1.16.0",
-        "warnonce": "1.15.0",
-        "warnweek": "1.15.0",
-        "warnalways": "1.15.0",
+        "nowarn": "1.17.0",
+        "warnonce": "1.16.0",
+        "warnweek": "1.16.0",
+        "warnalways": "1.16.0",
         "updateonly": "1.10.0"
       }
     }
