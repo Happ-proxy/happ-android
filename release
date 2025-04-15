@@ -2,19 +2,19 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "1.17.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.17.1/Happ.apk",
-  "details": "-fix import/update subscriptions",
-  "filenum": 1110,
+  "data": "1.19.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.19.0/Happ.apk",
+  "details": "-Android TV sharing improvements\n-Multiple fixes related to subscriptions imports\n-Autoconnect and VPN connection stability\n-Theming and general UI fix\n-Fragmentation Advanced add",
+  "filenum": 1111,
   "apk": {
     "block": [
     ],
     "beta": {
       "version": "1.19.0",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.19.0/Happ_beta.apk",
-      "details": "-Android TV sharing improvements\n-Multiple fixes related to subscriptions imports\n-Autoconnect and VPN connection stability\n-Theming and general UI fix\n-ByeDpi add",
+      "details": "-Android TV sharing improvements\n-Multiple fixes related to subscriptions imports\n-Autoconnect and VPN connection stability\n-Theming and general UI fix\n-Fragmentation Advanced add",
       "update": {
-        "nowarn": "1.18.1",
+        "nowarn": "2.0.1",
         "warnonce": "1.18.1",
         "warnweek": "1.18.1",
         "warnalways": "1.18.0",
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "1.17.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.17.1/Happ.apk",
-      "details": "-fix run applications",
+      "version": "1.19.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.19.0/Happ.apk",
+      "details": "-Android TV sharing improvements\n-Multiple fixes related to subscriptions imports\n-Autoconnect and VPN connection stability\n-Theming and general UI fix\n-Fragmentation Advanced add",
       "update": {
-        "nowarn": "1.18.0",
-        "warnonce": "1.17.0",
-        "warnweek": "1.17.0",
-        "warnalways": "1.17.0",
+        "nowarn": "2.0.1",
+        "warnonce": "1.18.1",
+        "warnweek": "1.18.1",
+        "warnalways": "1.18.0",
         "updateonly": "1.10.0"
       }
     }
