@@ -2,10 +2,10 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "1.19.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.19.0/Happ.apk",
-  "details": "-Android TV sharing improvements\n-Multiple fixes related to subscriptions imports\n-Autoconnect and VPN connection stability\n-Theming and general UI fix\n-Fragmentation Advanced add",
-  "filenum": 1112,
+  "data": "2.0.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.0/Happ.apk",
+  "details": "-Send HWID updated flow\n-Ping improvements and ping-type meta parameter\n-New fragmentation meta params: fragmentation-type & fragmentation-advanced-param\n-Network connection and ui fixes",
+  "filenum": 1115,
   "apk": {
     "block": [
     ],
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "1.19.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/1.19.0/Happ.apk",
-      "details": "-Android TV sharing improvements\n-Multiple fixes related to subscriptions imports\n-Autoconnect and VPN connection stability\n-Theming and general UI fix\n-Fragmentation Advanced add",
+      "version": "2.0.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.0/Happ.apk",
+      "details": "-Send HWID updated flow\n-Ping improvements and ping-type meta parameter\n-New fragmentation meta params: fragmentation-type & fragmentation-advanced-param\n-Network connection and ui fixes",
       "update": {
         "nowarn": "2.0.1",
-        "warnonce": "1.18.1",
-        "warnweek": "1.18.1",
-        "warnalways": "1.18.0",
+        "warnonce": "1.19.1",
+        "warnweek": "1.19.1",
+        "warnalways": "1.19.0",
         "updateonly": "1.10.0"
       }
     }
