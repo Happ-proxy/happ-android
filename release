@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.0.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.1/Happ.apk",
-  "details": "-Fix send HWID",
-  "filenum": 1116,
+  "data": "2.0.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.2/Happ.apk",
+  "details": "-fix TCP/ICMP ping if xray run\n-fix extra parsing for xhttp\n-fix logs screen",
+  "filenum": 1117,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.0.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.1/Happ_beta.apk",
-      "details": "-Fix send HWID",
+      "version": "2.0.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.2/Happ_beta.apk",
+      "details": "-fix TCP/ICMP ping if xray run\n-fix extra parsing for xhttp\n-fix logs screen",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.0",
-        "warnweek": "2.0.0",
-        "warnalways": "2.0.0",
+        "warnonce": "2.0.1",
+        "warnweek": "2.0.1",
+        "warnalways": "2.0.1",
         "updateonly": "1.10.0"
       }
     },
     "stable": {
-      "version": "2.0.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.1/Happ.apk",
-      "details": "-Fix send HWID",
+      "version": "2.0.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.2/Happ.apk",
+      "details": "-fix TCP/ICMP ping if xray run\n-fix extra parsing for xhttp\n-fix logs screen",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.0",
-        "warnweek": "2.0.0",
-        "warnalways": "2.0.0",
+        "warnonce": "2.0.1",
+        "warnweek": "2.0.1",
+        "warnalways": "2.0.1",
         "updateonly": "1.10.0"
       }
     }
