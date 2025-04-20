@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.0.2",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.2/Happ.apk",
-  "details": "-fix TCP/ICMP ping if xray run\n-fix extra parsing for xhttp\n-fix logs screen",
-  "filenum": 1117,
+  "data": "2.0.3",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.3/Happ.apk",
+  "details": "-for auto preferred IP Type disable preffered ipv6",
+  "filenum": 1118,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.0.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.2/Happ_beta.apk",
-      "details": "-fix TCP/ICMP ping if xray run\n-fix extra parsing for xhttp\n-fix logs screen",
+      "version": "2.0.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.3/Happ_beta.apk",
+      "details": "-for auto preferred IP Type disable preffered ipv6",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.1",
-        "warnweek": "2.0.1",
-        "warnalways": "2.0.1",
+        "warnonce": "2.0.2",
+        "warnweek": "2.0.2",
+        "warnalways": "2.0.2",
         "updateonly": "1.10.0"
       }
     },
     "stable": {
-      "version": "2.0.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.2/Happ.apk",
-      "details": "-fix TCP/ICMP ping if xray run\n-fix extra parsing for xhttp\n-fix logs screen",
+      "version": "2.0.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.3/Happ.apk",
+      "details": "-for auto preferred IP Type disable preffered ipv6",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.1",
-        "warnweek": "2.0.1",
-        "warnalways": "2.0.1",
+        "warnonce": "2.0.2",
+        "warnweek": "2.0.2",
+        "warnalways": "2.0.2",
         "updateonly": "1.10.0"
       }
     }
