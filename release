@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.0.4",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.4/Happ.apk",
-  "details": "-Add new meta parameter\n-Fixed minor issues related to new meta parameter",
-  "filenum": 1119,
+  "data": "2.0.5",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.5/Happ.apk",
+  "details": "-fix limited links\n-fix auto update subs",
+  "filenum": 1120,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.0.4",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.4/Happ_beta.apk",
-      "details": "-Add new meta parameter\n-Fixed minor issues related to new meta parameter",
+      "version": "2.0.5",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.5/Happ_beta.apk",
+      "details": "-fix limited links\n-fix auto update subs",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.3",
-        "warnweek": "2.0.3",
-        "warnalways": "2.0.3",
+        "warnonce": "2.0.4",
+        "warnweek": "2.0.4",
+        "warnalways": "2.0.4",
         "updateonly": "1.10.0"
       }
     },
     "stable": {
-      "version": "2.0.4",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.4/Happ.apk",
-      "details": "-Add new meta parameter\n-Fixed minor issues related to new meta parameter",
+      "version": "2.0.5",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.5/Happ.apk",
+      "details": "-fix limited links\n-fix auto update subs",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.3",
-        "warnweek": "2.0.3",
-        "warnalways": "2.0.3",
+        "warnonce": "2.0.4",
+        "warnweek": "2.0.4",
+        "warnalways": "2.0.4",
         "updateonly": "1.10.0"
       }
     }
