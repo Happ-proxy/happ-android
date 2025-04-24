@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.0.5",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.5/Happ.apk",
+  "data": "2.0.6",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.6/Happ.apk",
   "details": "-fix limited links\n-fix auto update subs",
-  "filenum": 1120,
+  "filenum": 1121,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.0.5",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.5/Happ_beta.apk",
+      "version": "2.0.6",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.6/Happ_beta.apk",
       "details": "-fix limited links\n-fix auto update subs",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.4",
-        "warnweek": "2.0.4",
-        "warnalways": "2.0.4",
+        "warnonce": "2.0.5",
+        "warnweek": "2.0.5",
+        "warnalways": "2.0.5",
         "updateonly": "1.10.0"
       }
     },
     "stable": {
-      "version": "2.0.5",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.5/Happ.apk",
+      "version": "2.0.6",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.0.6/Happ.apk",
       "details": "-fix limited links\n-fix auto update subs",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.4",
-        "warnweek": "2.0.4",
-        "warnalways": "2.0.4",
+        "warnonce": "2.0.5",
+        "warnweek": "2.0.5",
+        "warnalways": "2.0.5",
         "updateonly": "1.10.0"
       }
     }
