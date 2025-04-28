@@ -5,19 +5,19 @@
   "data": "2.1.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.1.0/Happ.apk",
   "details": "-Added new meta parameters (check the documentation for more details)",
-  "filenum": 1122,
+  "filenum": 1123,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.1.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.1.0/Happ_beta.apk",
-      "details": "-Added new meta parameters (check the documentation for more details)",
+      "version": "2.2.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.2.0/Happ_beta.apk",
+      "details": "-Update subscription import error dialog\n-Add Chinese Simplified language",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.6",
-        "warnweek": "2.0.6",
-        "warnalways": "2.0.6",
+        "warnonce": "2.1.0",
+        "warnweek": "2.1.0",
+        "warnalways": "2.1.0",
         "updateonly": "1.10.0"
       }
     },
