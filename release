@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.1.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.1.0/Happ.apk",
-  "details": "-Added new meta parameters (check the documentation for more details)",
-  "filenum": 1125,
+  "data": "2.5.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.5.0/Happ.apk",
+  "details": "-add 5 new meta params\n-add reject duplicated subs\n-fix date format\n-add set user agent params for headers\n-New TV sharing flow via remote api\n-VPN button now always enabled\n-Logs improvements\n-Dialogs during app in backgroud fixes",
+  "filenum": 1126,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.4.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.4.0/Happ_beta.apk",
-      "details": "-New TV sharing flow via remote api\n-Improved subscriptions updates flow\n-Handling of subscriptions duplicates\n-VPN button now always enabled\n-Routing input config parsing updates",
+      "version": "2.5.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.5.0/Happ_beta.apk",
+      "details": "-Logs improvements\n-Improved stability of Per App Proxy feature\n-Dialogs during app in backgroud fixes\n-Subscription duplicate update trigger fix\n-Ui fixes and improvements",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.3.0",
-        "warnweek": "2.3.0",
-        "warnalways": "2.3.0",
+        "warnonce": "2.4.0",
+        "warnweek": "2.4.0",
+        "warnalways": "2.4.0",
         "updateonly": "1.10.0"
       }
     },
     "stable": {
-      "version": "2.1.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.1.0/Happ.apk",
-      "details": "-Added new meta parameters (check the documentation for more details)",
+      "version": "2.5.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.5.0/Happ.apk",
+      "details": "-add 5 new meta params\n-add reject duplicated subs\n-fix date format\n-add set user agent params for headers\n-New TV sharing flow via remote api\n-VPN button now always enabled\n-Logs improvements\n-Dialogs during app in backgroud fixes",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.0.6",
-        "warnweek": "2.0.6",
-        "warnalways": "2.0.6",
+        "warnonce": "2.4.0",
+        "warnweek": "2.4.0",
+        "warnalways": "2.4.0",
         "updateonly": "1.10.0"
       }
     }
