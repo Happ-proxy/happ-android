@@ -18,7 +18,7 @@
         "warnonce": "2.4.0",
         "warnweek": "2.4.0",
         "warnalways": "2.4.0",
-        "updateonly": "1.10.0"
+        "updateonly": "2.1.0"
       }
     },
     "stable": {
@@ -30,7 +30,7 @@
         "warnonce": "2.4.0",
         "warnweek": "2.4.0",
         "warnalways": "2.4.0",
-        "updateonly": "1.10.0"
+        "updateonly": "2.1.0"
       }
     }
   },
