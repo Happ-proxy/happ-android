@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.5.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.5.0/Happ.apk",
-  "details": "-add 5 new meta params\n-add reject duplicated subs\n-fix date format\n-add set user agent params for headers\n-New TV sharing flow via remote api\n-VPN button now always enabled\n-Logs improvements\n-Dialogs during app in backgroud fixes",
-  "filenum": 1126,
+  "data": "2.6.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.6.0/Happ.apk",
+  "details": "-Support of D-pad for Android TV in settings + other improvements for D-pad navigation\n-Support for auto-start VPN on device boot",
+  "filenum": 1127,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.5.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.5.0/Happ_beta.apk",
-      "details": "-Logs improvements\n-Improved stability of Per App Proxy feature\n-Dialogs during app in backgroud fixes\n-Subscription duplicate update trigger fix\n-Ui fixes and improvements",
+      "version": "2.6.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.6.0/Happ_beta.apk",
+      "details": "-Support of D-pad for Android TV in settings + other improvements for D-pad navigation\n-Support for auto-start VPN on device boot",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.4.0",
-        "warnweek": "2.4.0",
-        "warnalways": "2.4.0",
+        "warnonce": "2.5.0",
+        "warnweek": "2.5.0",
+        "warnalways": "2.5.0",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "2.5.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.5.0/Happ.apk",
-      "details": "-add 5 new meta params\n-add reject duplicated subs\n-fix date format\n-add set user agent params for headers\n-New TV sharing flow via remote api\n-VPN button now always enabled\n-Logs improvements\n-Dialogs during app in backgroud fixes",
+      "version": "2.6.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.6.0/Happ.apk",
+      "details": "-Support of D-pad for Android TV in settings + other improvements for D-pad navigation\n-Support for auto-start VPN on device boot",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.4.0",
-        "warnweek": "2.4.0",
-        "warnalways": "2.4.0",
+        "warnonce": "2.5.0",
+        "warnweek": "2.5.0",
+        "warnalways": "2.5.0",
         "updateonly": "2.1.0"
       }
     }
