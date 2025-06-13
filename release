@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.7.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.0/Happ.apk",
-  "details": "-Add manual input for Android TV\n-fix selected server for start core\n-update widget",
-  "filenum": 1128,
+  "data": "2.7.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.1/Happ.apk",
+  "details": "-return xray core to 25.3.6",
+  "filenum": 1130,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.7.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.0/Happ_beta.apk",
-      "details": "-Add manual input for Android TV\n-fix selected server for start core\n-update widget",
+      "version": "2.7.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.1/Happ_beta.apk",
+      "details": "-return xray core to 25.3.6",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.6.0",
-        "warnweek": "2.6.0",
-        "warnalways": "2.6.0",
+        "warnonce": "2.7.0",
+        "warnweek": "2.7.0",
+        "warnalways": "2.7.0",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "2.7.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.0/Happ.apk",
-      "details": "-Add manual input for Android TV\n-fix selected server for start core\n-update widget",
+      "version": "2.7.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.1/Happ.apk",
+      "details": "-return xray core to 25.3.6",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.6.0",
-        "warnweek": "2.6.0",
-        "warnalways": "2.6.0",
+        "warnonce": "2.7.0",
+        "warnweek": "2.7.0",
+        "warnalways": "2.7.0",
         "updateonly": "2.1.0"
       }
     }
