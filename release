@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "2.7.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.1/Happ.apk",
-  "details": "-return xray core to 25.3.6",
-  "filenum": 1131,
+  "data": "2.8.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.8.1/Happ.apk",
+  "details": "-Support to import data from .json and .happ files\n-UI update for subscription and server list\n-Power button theme fix\n-Network fetch timeout increased to 9 seconds",
+  "filenum": 1132,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.8.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.8.0/Happ_beta.apk",
+      "version": "2.8.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.8.1/Happ_beta.apk",
       "details": "-Support to import data from .json and .happ files\n-UI update for subscription and server list\n-Power button theme fix\n-Network fetch timeout increased to 9 seconds",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.7.1",
-        "warnweek": "2.7.1",
-        "warnalways": "2.7.1",
+        "warnonce": "2.8.0",
+        "warnweek": "2.8.0",
+        "warnalways": "2.8.0",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "2.7.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.7.1/Happ.apk",
-      "details": "-return xray core to 25.3.6",
+      "version": "2.8.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.8.1/Happ.apk",
+      "details": "-Support to import data from .json and .happ files\n-UI update for subscription and server list\n-Power button theme fix\n-Network fetch timeout increased to 9 seconds",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.7.0",
-        "warnweek": "2.7.0",
-        "warnalways": "2.7.0",
+        "warnonce": "2.8.0",
+        "warnweek": "2.8.0",
+        "warnalways": "2.8.0",
         "updateonly": "2.1.0"
       }
     }
