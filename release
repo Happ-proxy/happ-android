@@ -5,19 +5,19 @@
   "data": "2.9.1",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.9.1/Happ.apk",
   "details": "-Improved per-app proxy screen\n-Power button redesign\n-Improved TV dpad support for main screen\n-Minor stability and optimizations for subscriptions",
-  "filenum": 1134,
+  "filenum": 1136,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.9.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.9.1/Happ_beta.apk",
-      "details": "-Improved per-app proxy screen\n-Power button redesign\n-Improved TV dpad support for main screen\n-Minor stability and optimizations for subscriptions",
+      "version": "2.10.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.10.0/Happ_beta.apk",
+      "details": "- Manual input crash fixed for some configurations\n- Manual input crash fixed for some configurations\n-Fixed missing server description when sharing servers\n-Fixed case where servers in subscriptions were reverted",
       "update": {
         "nowarn": "2.100.1",
-        "warnonce": "2.9.0",
-        "warnweek": "2.9.0",
-        "warnalways": "2.9.0",
+        "warnonce": "2.9.2",
+        "warnweek": "2.9.2",
+        "warnalways": "2.9.2",
         "updateonly": "2.1.0"
       }
     },
