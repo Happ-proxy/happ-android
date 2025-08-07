@@ -5,19 +5,19 @@
   "data": "2.11.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.11.0/Happ.apk",
   "details": "-Persian language\n-Improved DPad adaptation\n-New meta-params related to per-app-proxy\n-Fixed unlimited logs",
-  "filenum": 1139,
+  "filenum": 1140,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "2.11.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/2.11.0/Happ_beta.apk",
-      "details": "-Persian language\n-Improved DPad adaptation\n-New meta-params related to per-app-proxy\n-Fixed unlimited logs",
+      "version": "3.0.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.0.0/Happ_beta.apk",
+      "details": "-Improved the performance and general UX of subscription / server list\n-New logging cleaning mechanism\n-Redesign of main screen on Android TV\n-New meta parameters for MUX and sniffing",
       "update": {
-        "nowarn": "2.100.1",
-        "warnonce": "2.10.2",
-        "warnweek": "2.10.2",
-        "warnalways": "2.10.2",
+        "nowarn": "3.100.1",
+        "warnonce": "2.11.1",
+        "warnweek": "2.11.1",
+        "warnalways": "2.11.1",
         "updateonly": "2.1.0"
       }
     },
