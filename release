@@ -5,19 +5,19 @@
   "data": "3.0.1",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.0.1/Happ.apk",
   "details": "-Improved the performance and general UX of subscription / server list\n-Redesign of main screen on Android TV",
-  "filenum": 1142,
+  "filenum": 1143,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.0.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.0.1/Happ_beta.apk",
-      "details": "-Improved TV DPad handling for routing screens\n-New meta parameter for preferred ip address",
+      "version": "3.1.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.0/Happ_beta.apk",
+      "details": "-Fixed some input fields not working\n-Fixed update dialog UI\n-Fixed crashes due to concurrent updates of server list",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.0.0",
-        "warnweek": "3.0.0",
-        "warnalways": "3.0.0",
+        "warnonce": "3.0.2",
+        "warnweek": "3.0.2",
+        "warnalways": "3.0.2",
         "updateonly": "2.1.0"
       }
     },
