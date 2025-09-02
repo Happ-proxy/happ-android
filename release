@@ -2,16 +2,16 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.0.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.0.1/Happ.apk",
-  "details": "-Improved the performance and general UX of subscription / server list\n-Redesign of main screen on Android TV",
-  "filenum": 1144,
+  "data": "3.1.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.2/Happ.apk",
+  "details": "-Xray core is updated to 25.8.3\n-Fixed some cases of incorrect geofiles updates\n-Added new logging mechanism for subscriptions / servers updates",
+  "filenum": 1147,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.1.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.1/Happ_beta.apk",
+      "version": "3.1.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.2/Happ_beta.apk",
       "details": "-Xray core is updated to 25.8.3\n-Fixed some cases of incorrect geofiles updates\n-Added new logging mechanism for subscriptions / servers updates",
       "update": {
         "nowarn": "3.100.1",
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.0.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.0.1/Happ.apk",
-      "details": "-Improved the performance and general UX of subscription / server list\n-Redesign of main screen on Android TV",
+      "version": "3.1.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.2/Happ.apk",
+      "details": "-Xray core is updated to 25.8.3\n-Fixed some cases of incorrect geofiles updates\n-Added new logging mechanism for subscriptions / servers updates",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "2.11.1",
-        "warnweek": "2.11.1",
-        "warnalways": "2.11.1",
+        "warnonce": "3.1.2",
+        "warnweek": "3.1.2",
+        "warnalways": "3.1.2",
         "updateonly": "2.1.0"
       }
     }
