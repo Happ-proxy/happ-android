@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.1.2",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.2/Happ.apk",
-  "details": "-Xray core is updated to 25.8.3\n-Fixed some cases of incorrect geofiles updates\n-Added new logging mechanism for subscriptions / servers updates",
-  "filenum": 1147,
+  "data": "3.1.3",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.3/Happ.apk",
+  "details": "-little fix server list run configs",
+  "filenum": 1148,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.1.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.2/Happ_beta.apk",
-      "details": "-Xray core is updated to 25.8.3\n-Fixed some cases of incorrect geofiles updates\n-Added new logging mechanism for subscriptions / servers updates",
+      "version": "3.1.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.3/Happ_beta.apk",
+      "details": "-little fix server list run configs",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.1.2",
-        "warnweek": "3.1.2",
-        "warnalways": "3.1.2",
+        "warnonce": "3.1.3",
+        "warnweek": "3.1.3",
+        "warnalways": "3.1.3",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.1.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.2/Happ.apk",
-      "details": "-Xray core is updated to 25.8.3\n-Fixed some cases of incorrect geofiles updates\n-Added new logging mechanism for subscriptions / servers updates",
+      "version": "3.1.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.3/Happ.apk",
+      "details": "-little fix server list run configs",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.1.2",
-        "warnweek": "3.1.2",
-        "warnalways": "3.1.2",
+        "warnonce": "3.1.3",
+        "warnweek": "3.1.3",
+        "warnalways": "3.1.3",
         "updateonly": "2.1.0"
       }
     }
