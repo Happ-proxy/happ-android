@@ -5,19 +5,19 @@
   "data": "3.1.3",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.3/Happ.apk",
   "details": "-little fix server list run configs",
-  "filenum": 1148,
+  "filenum": 1149,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.1.3",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.3/Happ_beta.apk",
-      "details": "-little fix server list run configs",
+      "version": "3.2.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.2.0/Happ_beta.apk",
+      "details": "-New notifications (snackbars)\n-Improved parsing errors handling\n-Excluded routes (IP addresses) support (VPN settings)\n-Multiple fixes related to date & time",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.1.3",
-        "warnweek": "3.1.3",
-        "warnalways": "3.1.3",
+        "warnonce": "3.2.0",
+        "warnweek": "3.2.0",
+        "warnalways": "3.2.0",
         "updateonly": "2.1.0"
       }
     },
