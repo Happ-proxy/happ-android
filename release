@@ -5,19 +5,19 @@
   "data": "3.2.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.1.3/Happ.apk",
   "details": "-New notifications (snackbars)\n-Improved parsing errors handling\n-Excluded routes (IP addresses) support (VPN settings)\n-Multiple fixes related to date & time",
-  "filenum": 1150,
+  "filenum": 1151,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.2.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.2.0/Happ.apk",
-      "details": "-New notifications (snackbars)\n-Improved parsing errors handling\n-Excluded routes (IP addresses) support (VPN settings)\n-Multiple fixes related to date & time",
+      "version": "3.3.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.3.0/Happ_beta.apk",
+      "details": "-Update core to 25.9.11\n-Add new fragment param maxSplit\n-Add noises edit and parsing from config",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.2.0",
-        "warnweek": "3.2.0",
-        "warnalways": "3.2.0",
+        "warnonce": "3.3.0",
+        "warnweek": "3.3.0",
+        "warnalways": "3.3.0",
         "updateonly": "2.1.0"
       }
     },
