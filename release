@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.3.0",
+      "version": "3.3.1",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.3.0/Happ_beta.apk",
-      "details": "-Update core to 25.9.11\n-Add new fragment param maxSplit\n-Add noises edit and parsing from config",
+      "details": "-New alerts (toasts or snackbars) ui\n-Fixed broken domain fronting in background subscription updates\n-Fixed broken antifilter in background and during remote subscription updates\n-Fixed cases when subscription wasn't expaded after the update when in settings it is dissalowed for subscription to be collapsed\n-Fixed ping was not visible in persian localization\n-Fixed case when some subscriptions were improted without servers",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.3.0",
-        "warnweek": "3.3.0",
-        "warnalways": "3.3.0",
+        "warnonce": "3.3.1",
+        "warnweek": "3.3.1",
+        "warnalways": "3.3.1",
         "updateonly": "2.1.0"
       }
     },
