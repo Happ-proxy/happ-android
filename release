@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.3.3",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.3.3/Happ_beta.apk",
-      "details": "-New meta parameters for fragmentation and noises",
+      "version": "3.3.4",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.3.4/Happ_beta.apk",
+      "details": "-Subscription settings improved for TV\n-Dialogs fixed and minor redesign\n-Fixed some cases of invalid subscription imports",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.3.3",
-        "warnweek": "3.3.3",
-        "warnalways": "3.3.3",
+        "warnonce": "3.3.4",
+        "warnweek": "3.3.4",
+        "warnalways": "3.3.4",
         "updateonly": "2.1.0"
       }
     },
