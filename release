@@ -5,14 +5,14 @@
   "data": "3.3.4",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.3.4/Happ.apk",
   "details": "-Subscription settings improved for TV\n-Dialogs fixed and minor redesign\n-Fixed some cases of invalid subscription imports",
-  "filenum": 1152,
+  "filenum": 1153,
   "apk": {
     "block": [
     ],
     "beta": {
       "version": "3.4.0",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.4.0/Happ_beta.apk",
-      "details": "-Update core to 25.9.11\n-Add new fragment param maxSplit\n-Add noises edit and parsing from config",
+      "details": "-Xray core v25.10.15",
       "update": {
         "nowarn": "3.100.1",
         "warnonce": "3.3.5",
