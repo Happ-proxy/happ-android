@@ -2,10 +2,10 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.3.4",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.3.4/Happ.apk",
-  "details": "-Subscription settings improved for TV\n-Dialogs fixed and minor redesign\n-Fixed some cases of invalid subscription imports",
-  "filenum": 1153,
+  "data": "3.4.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.4.0/Happ.apk",
+  "details": "-Xray core v25.10.15",
+  "filenum": 1154,
   "apk": {
     "block": [
     ],
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.3.4",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.3.4/Happ.apk",
-      "details": "-Subscription settings improved for TV\n-Dialogs fixed and minor redesign\n-Fixed some cases of invalid subscription imports",
+      "version": "3.4.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.4.0/Happ.apk",
+      "details": "-Xray core v25.10.15",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.3.0",
-        "warnweek": "3.3.0",
-        "warnalways": "3.3.0",
+        "warnonce": "3.3.5",
+        "warnweek": "3.3.5",
+        "warnalways": "3.3.5",
         "updateonly": "2.1.0"
       }
     }
