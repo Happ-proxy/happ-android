@@ -5,19 +5,19 @@
   "data": "3.4.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.4.0/Happ.apk",
   "details": "-Xray core v25.10.15",
-  "filenum": 1155,
+  "filenum": 1156,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.5.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.0/Happ_beta.apk",
-      "details": "-Multiple fixes related to Android 16 files management\nAdded support of TLS 1.3 for older Android APIs",
+      "version": "3.5.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.1/Happ_beta.apk",
+      "details": "-fix download and save geo files",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.4.5",
-        "warnweek": "3.4.5",
-        "warnalways": "3.4.5",
+        "warnonce": "3.5.2",
+        "warnweek": "3.5.2",
+        "warnalways": "3.5.2",
         "updateonly": "2.1.0"
       }
     },
