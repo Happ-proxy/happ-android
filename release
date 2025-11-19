@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.4.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.4.0/Happ.apk",
-  "details": "-Xray core v25.10.15",
-  "filenum": 1156,
+  "data": "3.5.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.2/Happ.apk",
+  "details": "-Routing profile activate/diactivate fix for update\n-Fix permission message",
+  "filenum": 1157,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.5.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.1/Happ_beta.apk",
-      "details": "-fix download and save geo files",
+      "version": "3.5.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.2/Happ_beta.apk",
+      "details": "-Routing profile activate/diactivate fix for update\n-Fix permission message",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.5.2",
-        "warnweek": "3.5.2",
-        "warnalways": "3.5.2",
+        "warnonce": "3.5.3",
+        "warnweek": "3.5.3",
+        "warnalways": "3.5.3",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.4.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.4.0/Happ.apk",
-      "details": "-Xray core v25.10.15",
+      "version": "3.5.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.2/Happ_beta.apk",
+      "details": "-Routing profile activate/diactivate fix for update\n-Fix permission message",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.3.5",
-        "warnweek": "3.3.5",
-        "warnalways": "3.3.5",
+        "warnonce": "3.5.3",
+        "warnweek": "3.5.3",
+        "warnalways": "3.5.3",
         "updateonly": "2.1.0"
       }
     }
