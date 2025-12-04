@@ -2,10 +2,10 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.5.2",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.2/Happ.apk",
-  "details": "-Routing profile activate/diactivate fix for update\n-Fix permission message",
-  "filenum": 1157,
+  "data": "3.6.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.0/Happ.apk",
+  "details": "-Improved UI and D-pad management for Ping, Statistics and Logs screens on TV\n-Fixed cases when openning invalid attached link for the subscription could cause crashes\n-View logs section was moved to Logs settings\n-Fixed multiple cases related to invalid routing import\n-Improved permission error messages\n-Improved stories UI for persian language\n-Fixed case when additional arguments were visible for server configuration with fragmentation type none\n-Fixed cases when expiration time was invalid + expiration time is now calculated in hours (if expires in current day)\n-Fixed parsing some parameters for trojan server configurations\n-Fixed cases of invalid reconnecting when network configuration was changed\n-Fixed concurrent updates of cryptographical data, that was causing complete application cache cleaning (e.g. subscriptions could be lost after update on open)",
+  "filenum": 1158,
   "apk": {
     "block": [
     ],
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.5.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.5.2/Happ_beta.apk",
-      "details": "-Routing profile activate/diactivate fix for update\n-Fix permission message",
+      "version": "3.6.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.0/Happ.apk",
+      "details": "-Improved UI and D-pad management for Ping, Statistics and Logs screens on TV\n-Fixed cases when openning invalid attached link for the subscription could cause crashes\n-View logs section was moved to Logs settings\n-Fixed multiple cases related to invalid routing import\n-Improved permission error messages\n-Improved stories UI for persian language\n-Fixed case when additional arguments were visible for server configuration with fragmentation type none\n-Fixed cases when expiration time was invalid + expiration time is now calculated in hours (if expires in current day)\n-Fixed parsing some parameters for trojan server configurations\n-Fixed cases of invalid reconnecting when network configuration was changed\n-Fixed concurrent updates of cryptographical data, that was causing complete application cache cleaning (e.g. subscriptions could be lost after update on open)",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.5.3",
-        "warnweek": "3.5.3",
-        "warnalways": "3.5.3",
+        "warnonce": "3.6.1",
+        "warnweek": "3.6.1",
+        "warnalways": "3.6.1",
         "updateonly": "2.1.0"
       }
     }
