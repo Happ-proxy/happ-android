@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.6.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.1/Happ.apk",
-  "details": "-Added feature to customize routing order (manually set order of proxy, direct and block during Xray server config generation)\n-Fixed previously selected server reset during subscription's updates\n-Fixed subscription's last update time was updated even for failed updates",
+  "data": "3.6.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.2/Happ.apk",
+  "details": "-Fixed routing order was applied for excluded IPs",
   "filenum": 1159,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.6.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.1/Happ_beta.apk",
-      "details": "-Added feature to customize routing order (manually set order of proxy, direct and block during Xray server config generation)\n-Fixed previously selected server reset during subscription's updates\n-Fixed subscription's last update time was updated even for failed updates",
+      "version": "3.6.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.2/Happ_beta.apk",
+      "details": "-Fixed routing order was applied for excluded IPs",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.6.2",
-        "warnweek": "3.6.2",
-        "warnalways": "3.6.2",
+        "warnonce": "3.6.3",
+        "warnweek": "3.6.3",
+        "warnalways": "3.6.3",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.6.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.1/Happ.apk",
-      "details": "-Added feature to customize routing order (manually set order of proxy, direct and block during Xray server config generation)\n-Fixed previously selected server reset during subscription's updates\n-Fixed subscription's last update time was updated even for failed updates",
+      "version": "3.6.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.2/Happ.apk",
+      "details": "-Fixed routing order was applied for excluded IPs",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.6.2",
-        "warnweek": "3.6.2",
-        "warnalways": "3.6.2",
+        "warnonce": "3.6.3",
+        "warnweek": "3.6.3",
+        "warnalways": "3.6.3",
         "updateonly": "2.1.0"
       }
     }
