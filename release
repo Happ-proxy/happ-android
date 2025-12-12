@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.6.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.2/Happ_beta.apk",
-      "details": "-Fixed routing order was applied for excluded IPs",
+      "version": "3.7.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.7.0/Happ_beta.apk",
+      "details": "-Added option to share full logs report with a development team\n-Fixed some cases of invalid install ID / provider ID updates\n-Http errors are moved to snackbars\n-Fixed some cases when updated subscription's details were not shown on refresh\n-Fixed some issues related to fronting",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.6.3",
-        "warnweek": "3.6.3",
-        "warnalways": "3.6.3",
+        "warnonce": "3.7.1",
+        "warnweek": "3.7.1",
+        "warnalways": "3.7.1",
         "updateonly": "2.1.0"
       }
     },
