@@ -2,10 +2,10 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.6.2",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.2/Happ.apk",
-  "details": "-Fixed routing order was applied for excluded IPs",
-  "filenum": 1159,
+  "data": "3.7.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.7.1/Happ.apk",
+  "details": "-Minor fixes related to insecure connections\n-Minor logging improvements",
+  "filenum": 1160,
   "apk": {
     "block": [
     ],
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.6.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.6.2/Happ.apk",
-      "details": "-Fixed routing order was applied for excluded IPs",
+      "version": "3.7.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.7.1/Happ.apk",
+      "details": "-Minor fixes related to insecure connections\n-Minor logging improvements",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.6.3",
-        "warnweek": "3.6.3",
-        "warnalways": "3.6.3",
+        "warnonce": "3.7.2",
+        "warnweek": "3.7.2",
+        "warnalways": "3.7.2",
         "updateonly": "2.1.0"
       }
     }
