@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.7.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.7.1/Happ.apk",
-  "details": "-Minor fixes related to insecure connections\n-Minor logging improvements",
-  "filenum": 1160,
+  "data": "3.8.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.8.1/Happ.apk",
+  "details": "-Auto-start after application update\n-Multiple fixes related to application auto-start on boot\n-Minor UI fixes",
+  "filenum": 1162,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.8.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.8.0/Happ_beta.apk",
-      "details": "-Improved detection and notification of modified device system time (must not be used for correct application behavior)\n-Xray core 25.12.8\n-Fixed subscription collapse mode\n-Improved dialogs UX/UI for TV",
+      "version": "3.8.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.8.1/Happ_beta.apk",
+      "details": "-Auto-start after application update\n-Multiple fixes related to application auto-start on boot\n-Minor UI fixes",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.8.1",
-        "warnweek": "3.8.1",
-        "warnalways": "3.8.1",
+        "warnonce": "3.8.2",
+        "warnweek": "3.8.2",
+        "warnalways": "3.8.2",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.7.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.7.1/Happ.apk",
-      "details": "-Minor fixes related to insecure connections\n-Minor logging improvements",
+      "version": "3.8.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.8.1/Happ.apk",
+      "details": "-Auto-start after application update\n-Multiple fixes related to application auto-start on boot\n-Minor UI fixes",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.7.2",
-        "warnweek": "3.7.2",
-        "warnalways": "3.7.2",
+        "warnonce": "3.8.2",
+        "warnweek": "3.8.2",
+        "warnalways": "3.8.2",
         "updateonly": "2.1.0"
       }
     }
