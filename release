@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.9.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.9.1/Happ.apk",
-  "details": "-Fixed issues when on-open features were not launched (auto-connect, auto-ping, etc.)\n-Major refactoring related to application themes, styles and resources management (fixes issues with theme switching)\n-Per-app-proxy: include applications that do not directly require internet permission (e.g. gemini and system apps)\n-Multiple UI fixes and improvements for TV (snackers, dialogs, scroll effects, etc.)\n-Fixed issues related to infinite update dialog during server-list updates\n-Added bouncing animation for subscription-server list (during overscroll)\n-Fixed an issue when deeplink import resulted in duplicated subscriptions\n-Fixes related to system bars\n-New key-words support and other improvements for routing rules manual input\n-New meta-parameter related to subscription expansion\n-Fixed an issue with noises block visibility on manual server input screen\n-Added detailed messages for errors related to connection issues\n-Fixed an issue when snackbar touch zone was blocking settings and plus buttons on main screen\n-Major refactoring of routing profiles screen + added individual share button for routing profiles (swipe right)\n-Added more details to errors in snackbars related to permissions + go to settings button\n-Fixed subscription manual title input was not applied\n-Fixed subscription content blinking during ping\n-New expand-collapse subscription chevron animation",
+  "data": "3.8.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.8.1/Happ.apk",
+  "details": "-Auto-start after application update\n-Multiple fixes related to application auto-start on boot\n-Minor UI fixes",
   "filenum": 1162,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.9.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.9.1/Happ.apk",
-      "details": "-Fixed issues when on-open features were not launched (auto-connect, auto-ping, etc.)\n-Major refactoring related to application themes, styles and resources management (fixes issues with theme switching)\n-Per-app-proxy: include applications that do not directly require internet permission (e.g. gemini and system apps)\n-Multiple UI fixes and improvements for TV (snackers, dialogs, scroll effects, etc.)\n-Fixed issues related to infinite update dialog during server-list updates\n-Added bouncing animation for subscription-server list (during overscroll)\n-Fixed an issue when deeplink import resulted in duplicated subscriptions\n-Fixes related to system bars\n-New key-words support and other improvements for routing rules manual input\n-New meta-parameter related to subscription expansion\n-Fixed an issue with noises block visibility on manual server input screen\n-Added detailed messages for errors related to connection issues\n-Fixed an issue when snackbar touch zone was blocking settings and plus buttons on main screen\n-Major refactoring of routing profiles screen + added individual share button for routing profiles (swipe right)\n-Added more details to errors in snackbars related to permissions + go to settings button\n-Fixed subscription manual title input was not applied\n-Fixed subscription content blinking during ping\n-New expand-collapse subscription chevron animation",
+      "version": "3.8.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.8.1/Happ.apk",
+      "details": "-Auto-start after application update\n-Multiple fixes related to application auto-start on boot\n-Minor UI fixes",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.9.2",
-        "warnweek": "3.9.2",
-        "warnalways": "3.9.2",
+        "warnonce": "3.8.2",
+        "warnweek": "3.8.2",
+        "warnalways": "3.8.2",
         "updateonly": "2.1.0"
       }
     }
