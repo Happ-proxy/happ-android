@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.9.2",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.9.2/Happ.apk",
-  "details": "-Bug fixes and performance improvements",
+  "data": "3.10.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.10.0/Happ.apk",
+  "details": "-Multiple UI improvements and new animations\n-Fixed an issue when selected server was changed during subscriptions' imports and upates\n-Fixed an issue when ping-on-open was not invoked\n-Multiple fixes related to manual creation of wireguard servers\n-Improved warning about subscription expire deadline\n-Minor fixes for light/dark theme switches\n-Added warning dialog to prevent from accidental routing profile deletion\n-Major internal updates related to stability and performance",
   "filenum": 1162,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.9.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.9.2/Happ_beta.apk",
-      "details": "-Bug fixes and performance improvements",
+      "version": "3.10.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.10.0/Happ_beta.apk",
+      "details": "-Multiple UI improvements and new animations\n-Fixed an issue when selected server was changed during subscriptions' imports and upates\n-Fixed an issue when ping-on-open was not invoked\n-Multiple fixes related to manual creation of wireguard servers\n-Improved warning about subscription expire deadline\n-Minor fixes for light/dark theme switches\n-Added warning dialog to prevent from accidental routing profile deletion\n-Major internal updates related to stability and performance",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.9.3",
-        "warnweek": "3.9.3",
-        "warnalways": "3.9.3",
+        "warnonce": "3.10.1",
+        "warnweek": "3.10.1",
+        "warnalways": "3.10.1",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.9.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.9.2/Happ.apk",
-      "details": "-Bug fixes and performance improvements",
+      "version": "3.10.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.10.0/Happ.apk",
+      "details": "-Multiple UI improvements and new animations\n-Fixed an issue when selected server was changed during subscriptions' imports and upates\n-Fixed an issue when ping-on-open was not invoked\n-Multiple fixes related to manual creation of wireguard servers\n-Improved warning about subscription expire deadline\n-Minor fixes for light/dark theme switches\n-Added warning dialog to prevent from accidental routing profile deletion\n-Major internal updates related to stability and performance",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.9.3",
-        "warnweek": "3.9.3",
-        "warnalways": "3.9.3",
+        "warnonce": "3.10.1",
+        "warnweek": "3.10.1",
+        "warnalways": "3.10.1",
         "updateonly": "2.1.0"
       }
     }
