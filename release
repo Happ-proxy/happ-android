@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.11.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.11.0/Happ.apk",
-  "details": "-Xray 26.1.23\n-Histeria2 support\n-Multiple UI updates and improvements\n-Fixed minor issues related to subscription expire notification\n-Fixed an issue of subscription duplicating during import from a deeplink\n-Added an option to copy HWID on a short click\n-Added option to clear and copy log files\n-Improved bug report flow",
+  "data": "3.12.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.13.0/Happ.apk",
+  "details": "-Improvements of hysteria protocol support and its general stability\n-Fixed an issue of an empty app list in per-app-proxy OFF mode\n-Minor improvements of wireguard servers manual input\n-Fixed multiple issues related to RTL support for Persian localization\n-Fixed an issue of snackbar overlapping with status bar",
   "filenum": 1162,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.11.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.11.0/Happ_beta.apk",
-      "details": "-Xray 26.1.23\n-Histeria2 support\n-Multiple UI updates and improvements\n-Fixed minor issues related to subscription expire notification\n-Fixed an issue of subscription duplicating during import from a deeplink\n-Added an option to copy HWID on a short click\n-Added option to clear and copy log files\n-Improved bug report flow",
+      "version": "3.12.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.12.0/Happ_beta.apk",
+      "details": "-Improvements of hysteria protocol support and its general stability\n-Fixed an issue of an empty app list in per-app-proxy OFF mode\n-Minor improvements of wireguard servers manual input\n-Fixed multiple issues related to RTL support for Persian localization\n-Fixed an issue of snackbar overlapping with status bar",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.11.1",
-        "warnweek": "3.11.1",
-        "warnalways": "3.11.1",
+        "warnonce": "3.12.1",
+        "warnweek": "3.12.1",
+        "warnalways": "3.12.1",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.11.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.11.0/Happ.apk",
-      "details": "-Xray 26.1.23\n-Histeria2 support\n-Multiple UI updates and improvements\n-Fixed minor issues related to subscription expire notification\n-Fixed an issue of subscription duplicating during import from a deeplink\n-Added an option to copy HWID on a short click\n-Added option to clear and copy log files\n-Improved bug report flow",
+      "version": "3.12.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.12.0/Happ.apk",
+      "details": "-Improvements of hysteria protocol support and its general stability\n-Fixed an issue of an empty app list in per-app-proxy OFF mode\n-Minor improvements of wireguard servers manual input\n-Fixed multiple issues related to RTL support for Persian localization\n-Fixed an issue of snackbar overlapping with status bar",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.11.1",
-        "warnweek": "3.11.1",
-        "warnalways": "3.11.1",
+        "warnonce": "3.12.1",
+        "warnweek": "3.12.1",
+        "warnalways": "3.12.1",
         "updateonly": "2.1.0"
       }
     }
