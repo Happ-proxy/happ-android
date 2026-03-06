@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.13.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.13.0/Happ.apk",
-  "details": "-Feature: new warnings and error messages for during imports, url edits and logging\n-Feature: symbols to form QR code for sharing with TV are chosen more carefully\n-Feature: concurrent ping calls support\n-Feature: support of fallback url usage during errors\n-Fix: routing profile selection\n-Fix: socks server creation in manual input\n-Fix: minor UI issues with button states on TV and swipe buttons on server list\n-Fix: handled some cases of subscriptions' duplicating on import",
+  "data": "3.14.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk",
+  "details": "-Update to Xray 26.02.06\n-Support for ech config list & ech force query in vless configurations\n-Fixed port parsing for hysteria configurations\n-Fixed issues related to fallback processing",
   "filenum": 1162,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.13.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.13.0/Happ_beta.apk",
-      "details": "-Feature: new warnings and error messages for during imports, url edits and logging\n-Feature: symbols to form QR code for sharing with TV are chosen more carefully\n-Feature: concurrent ping calls support\n-Feature: support of fallback url usage during errors\n-Fix: routing profile selection\n-Fix: socks server creation in manual input\n-Fix: minor UI issues with button states on TV and swipe buttons on server list\n-Fix: handled some cases of subscriptions' duplicating on import",
+      "version": "3.14.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ_beta.apk",
+      "details": "-Update to Xray 26.02.06\n-Support for ech config list & ech force query in vless configurations\n-Fixed port parsing for hysteria configurations\n-Fixed issues related to fallback processing",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.13.1",
-        "warnweek": "3.13.1",
-        "warnalways": "3.13.1",
+        "warnonce": "3.14.1",
+        "warnweek": "3.14.1",
+        "warnalways": "3.14.1",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.13.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.13.0/Happ.apk",
-      "details": "-Feature: new warnings and error messages for during imports, url edits and logging\n-Feature: symbols to form QR code for sharing with TV are chosen more carefully\n-Feature: concurrent ping calls support\n-Feature: support of fallback url usage during errors\n-Fix: routing profile selection\n-Fix: socks server creation in manual input\n-Fix: minor UI issues with button states on TV and swipe buttons on server list\n-Fix: handled some cases of subscriptions' duplicating on import",
+      "version": "3.14.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk",
+      "details": "-Update to Xray 26.02.06\n-Support for ech config list & ech force query in vless configurations\n-Fixed port parsing for hysteria configurations\n-Fixed issues related to fallback processing",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.13.1",
-        "warnweek": "3.13.1",
-        "warnalways": "3.13.1",
+        "warnonce": "3.14.1",
+        "warnweek": "3.14.1",
+        "warnalways": "3.14.1",
         "updateonly": "2.1.0"
       }
     }
