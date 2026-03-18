@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.14.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk",
-  "details": "-Update to Xray 26.02.06\n-Support for ech config list & ech force query in vless configurations\n-Fixed port parsing for hysteria configurations\n-Fixed issues related to fallback processing",
+  "data": "3.15.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.0/Happ.apk",
+  "details": "-Improved stability of subscriptions' features for unstable connection scenarios\n-Added an option to distinguish server groups based on network type\n-Added new subscription pin meta parameter\n-Added an option to irrevocably switch from mobile UI to TV UI by pressing QR-code button (required for consoles)\n-Added an option to hide/show system apps in per-app-proxy list\n-Multiple fixes related to routing profiles' management and overall routing stability\n-Fixed subscriptions' pinning-Fixed invalid highlighting of per-app-proxy selector\n-Fixed log type was not present during server's export\n-Minor internal improvements for fronting stability & logging\n-Minor fixes related to manual server input\n-Minor fixes of TV UI states and improvements of focus navigation on main screen",
   "filenum": 1162,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.14.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ_beta.apk",
-      "details": "-Update to Xray 26.02.06\n-Support for ech config list & ech force query in vless configurations\n-Fixed port parsing for hysteria configurations\n-Fixed issues related to fallback processing",
+      "version": "3.15.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.0/Happ_beta.apk",
+      "details": "-Improved stability of subscriptions' features for unstable connection scenarios\n-Added an option to distinguish server groups based on network type\n-Added new subscription pin meta parameter\n-Added an option to irrevocably switch from mobile UI to TV UI by pressing QR-code button (required for consoles)\n-Added an option to hide/show system apps in per-app-proxy list\n-Multiple fixes related to routing profiles' management and overall routing stability\n-Fixed subscriptions' pinning-Fixed invalid highlighting of per-app-proxy selector\n-Fixed log type was not present during server's export\n-Minor internal improvements for fronting stability & logging\n-Minor fixes related to manual server input\n-Minor fixes of TV UI states and improvements of focus navigation on main screen",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.14.1",
-        "warnweek": "3.14.1",
-        "warnalways": "3.14.1",
+        "warnonce": "3.15.1",
+        "warnweek": "3.15.1",
+        "warnalways": "3.15.1",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.14.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk",
-      "details": "-Update to Xray 26.02.06\n-Support for ech config list & ech force query in vless configurations\n-Fixed port parsing for hysteria configurations\n-Fixed issues related to fallback processing",
+      "version": "3.15.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.0/Happ.apk",
+      "details": "-Improved stability of subscriptions' features for unstable connection scenarios\n-Added an option to distinguish server groups based on network type\n-Added new subscription pin meta parameter\n-Added an option to irrevocably switch from mobile UI to TV UI by pressing QR-code button (required for consoles)\n-Added an option to hide/show system apps in per-app-proxy list\n-Multiple fixes related to routing profiles' management and overall routing stability\n-Fixed subscriptions' pinning-Fixed invalid highlighting of per-app-proxy selector\n-Fixed log type was not present during server's export\n-Minor internal improvements for fronting stability & logging\n-Minor fixes related to manual server input\n-Minor fixes of TV UI states and improvements of focus navigation on main screen",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.14.1",
-        "warnweek": "3.14.1",
-        "warnalways": "3.14.1",
+        "warnonce": "3.15.1",
+        "warnweek": "3.15.1",
+        "warnalways": "3.15.1",
         "updateonly": "2.1.0"
       }
     }
