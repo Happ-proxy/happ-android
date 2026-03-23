@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.15.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.1/Happ.apk",
-  "details": "-Fixed case when server that has both 'wifi' and 'mobile' in its name was skipped by the network type filtering",
+  "data": "3.15.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.2/Happ.apk",
+  "details": "-Fixed case when servers were skipped by the network type filtering",
   "filenum": 1162,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.15.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.1/Happ_beta.apk",
-      "details": "-Fixed case when server that has both 'wifi' and 'mobile' in its name was skipped by the network type filtering",
+      "version": "3.15.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.2/Happ_beta.apk",
+      "details": "-Fixed case when servers were skipped by the network type filtering",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.15.2",
-        "warnweek": "3.15.2",
-        "warnalways": "3.15.2",
+        "warnonce": "3.15.3",
+        "warnweek": "3.15.3",
+        "warnalways": "3.15.3",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.15.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.1/Happ.apk",
-      "details": "-Fixed case when server that has both 'wifi' and 'mobile' in its name was skipped by the network type filtering",
+      "version": "3.15.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.2/Happ.apk",
+      "details": "-Fixed case when servers were skipped by the network type filtering",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.15.2",
-        "warnweek": "3.15.2",
-        "warnalways": "3.15.2",
+        "warnonce": "3.15.3",
+        "warnweek": "3.15.3",
+        "warnalways": "3.15.3",
         "updateonly": "2.1.0"
       }
     }
