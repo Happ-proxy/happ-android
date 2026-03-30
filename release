@@ -5,7 +5,7 @@
   "data": "3.15.2",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.2/Happ.apk",
   "details": "-Fixed case when servers were skipped by the network type filtering",
-  "filenum": 1162,
+  "filenum": 1163,
   "apk": {
     "block": [
     ],
@@ -18,7 +18,7 @@
         "warnonce": "3.15.3",
         "warnweek": "3.15.3",
         "warnalways": "3.15.3",
-        "updateonly": "2.1.0"
+        "updateonly": "3.6.2"
       }
     },
     "stable": {
@@ -30,7 +30,7 @@
         "warnonce": "3.15.3",
         "warnweek": "3.15.3",
         "warnalways": "3.15.3",
-        "updateonly": "2.1.0"
+        "updateonly": "3.6.2"
       }
     }
   },
