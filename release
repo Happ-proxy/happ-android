@@ -1,0 +1,52 @@
+{
+  "app":"happ_android",
+  "ret": 1,
+  "msg": "ok",
+  "data": "3.15.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.2/Happ.apk",
+  "details": "-Fixed case when servers were skipped by the network type filtering",
+  "filenum": 1163,
+  "apk": {
+    "block": [
+    ],
+    "beta": {
+      "version": "3.15.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.2/Happ_beta.apk",
+      "details": "-Fixed case when servers were skipped by the network type filtering",
+      "update": {
+        "nowarn": "3.100.1",
+        "warnonce": "3.15.3",
+        "warnweek": "3.15.3",
+        "warnalways": "3.15.3",
+        "updateonly": "3.6.2"
+      }
+    },
+    "stable": {
+      "version": "3.15.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.15.2/Happ.apk",
+      "details": "-Fixed case when servers were skipped by the network type filtering",
+      "update": {
+        "nowarn": "3.100.1",
+        "warnonce": "3.15.3",
+        "warnweek": "3.15.3",
+        "warnalways": "3.15.3",
+        "updateonly": "3.6.2"
+      }
+    }
+  },
+  "google": {
+    "block": [
+    ],
+    "stable": {
+      "version": "1.0.0",
+      "details": "Welcome to new version of Happ Android application",
+      "update": {
+        "nowarn": "1.10.0",
+        "warnonce": "1.10.0",
+        "warnweek": "1.10.0",
+        "warnalways": "1.10.0",
+        "updateonly": "1.10.0"
+      }
+    }
+  }
+}
