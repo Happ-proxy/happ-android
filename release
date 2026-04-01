@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.16.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.0/Happ.apk",
-  "details": "-Improved handling and validation of new-domain parameter\n-Updated server description format\n-Support of stories clearance command\n-Added parameter to setup user-agent parameter\n-Improved flow of remote token sending registration\n-Added feature to use dns block from json server\n-Improved support for file logging for json servers\n-Fixed crash when tried to swipe subscription\n-Minor fixes related to manual server input",
+  "data": "3.16.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.1/Happ.apk",
+  "details": "-Fixed case when DNS from json was applied even if it was not enabled"
   "filenum": 1163,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.16.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.0/Happ_beta.apk",
-      "details": "-Improved handling and validation of new-domain parameter\n-Updated server description format\n-Support of stories clearance command\n-Added parameter to setup user-agent parameter\n-Improved flow of remote token sending registration\n-Added feature to use dns block from json server\n-Improved support for file logging for json servers\n-Fixed crash when tried to swipe subscription\n-Minor fixes related to manual server input",
+      "version": "3.16.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.1/Happ_beta.apk",
+      "details": "-Fixed case when DNS from json was applied even if it was not enabled",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.16.1",
-        "warnweek": "3.16.1",
-        "warnalways": "3.16.1",
+        "warnonce": "3.16.2",
+        "warnweek": "3.16.2",
+        "warnalways": "3.16.2",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.16.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.0/Happ.apk",
-      "details": "-Improved handling and validation of new-domain parameter\n-Updated server description format\n-Support of stories clearance command\n-Added parameter to setup user-agent parameter\n-Improved flow of remote token sending registration\n-Added feature to use dns block from json server\n-Improved support for file logging for json servers\n-Fixed crash when tried to swipe subscription\n-Minor fixes related to manual server input",
+      "version": "3.16.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.1/Happ.apk",
+      "details": "-Fixed case when DNS from json was applied even if it was not enabled"
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.16.1",
-        "warnweek": "3.16.1",
-        "warnalways": "3.16.1",
+        "warnonce": "3.16.2",
+        "warnweek": "3.16.2",
+        "warnalways": "3.16.2",
         "updateonly": "3.6.2"
       }
     }
