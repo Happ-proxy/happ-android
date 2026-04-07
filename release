@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.16.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.1/Happ.apk",
-  "details": "-Fixed case when DNS from json was applied even if it was not enabled"
+  "data": "3.16.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.2/Happ.apk",
+  "details": "-Remove HandlerService from services",
   "filenum": 1163,
   "apk": {
     "block": [
     ],
     "beta": {
       "version": "3.16.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.1/Happ_beta.apk",
-      "details": "-Fixed case when DNS from json was applied even if it was not enabled",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.2/Happ_beta.apk",
+      "details": "-Remove HandlerService from services",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.16.2",
-        "warnweek": "3.16.2",
-        "warnalways": "3.16.2",
+        "warnonce": "3.16.3",
+        "warnweek": "3.16.3",
+        "warnalways": "3.16.3",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.16.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.1/Happ.apk",
-      "details": "-Fixed case when DNS from json was applied even if it was not enabled"
+      "version": "3.16.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.2/Happ.apk",
+      "details": "-Remove HandlerService from services",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.16.2",
-        "warnweek": "3.16.2",
-        "warnalways": "3.16.2",
+        "warnonce": "3.16.3",
+        "warnweek": "3.16.3",
+        "warnalways": "3.16.3",
         "updateonly": "3.6.2"
       }
     }
