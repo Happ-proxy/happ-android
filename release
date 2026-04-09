@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.16.2",
+  "data": "3.17.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.2/Happ.apk",
-  "details": "-Remove HandlerService from services",
+  "details": "-New meta parameter to reset excluded routes\n-New meta parameters to update and invert per-app-proxy list\n-Added support for remote handling of subscription info updates\n-Improved DNS from json handling for IP addresses + added warnings in case of errors\n-Added handling of happ://crypt links in 'location' header during HTTP redirects (status code 300+)\n-Fixed cases when unsuccessfull background subscription updates caused servers to dissapear\n-Fixed cases when updated data for manual server updates was ignored\n-Minor UI fixes and improvements",
   "filenum": 1163,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.16.1",
+      "version": "3.17.0",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.2/Happ_beta.apk",
-      "details": "-Remove HandlerService from services",
+      "details": "-New meta parameter to reset excluded routes\n-New meta parameters to update and invert per-app-proxy list\n-Added support for remote handling of subscription info updates\n-Improved DNS from json handling for IP addresses + added warnings in case of errors\n-Added handling of happ://crypt links in 'location' header during HTTP redirects (status code 300+)\n-Fixed cases when unsuccessfull background subscription updates caused servers to dissapear\n-Fixed cases when updated data for manual server updates was ignored\n-Minor UI fixes and improvements",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.16.3",
-        "warnweek": "3.16.3",
-        "warnalways": "3.16.3",
+        "warnonce": "3.17.1",
+        "warnweek": "3.17.1",
+        "warnalways": "3.17.1",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.16.2",
+      "version": "3.17.0",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.16.2/Happ.apk",
-      "details": "-Remove HandlerService from services",
+      "details": "-New meta parameter to reset excluded routes\n-New meta parameters to update and invert per-app-proxy list\n-Added support for remote handling of subscription info updates\n-Improved DNS from json handling for IP addresses + added warnings in case of errors\n-Added handling of happ://crypt links in 'location' header during HTTP redirects (status code 300+)\n-Fixed cases when unsuccessfull background subscription updates caused servers to dissapear\n-Fixed cases when updated data for manual server updates was ignored\n-Minor UI fixes and improvements",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.16.3",
-        "warnweek": "3.16.3",
-        "warnalways": "3.16.3",
+        "warnonce": "3.17.1",
+        "warnweek": "3.17.1",
+        "warnalways": "3.17.1",
         "updateonly": "3.6.2"
       }
     }
