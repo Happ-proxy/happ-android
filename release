@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.17.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.17.0/Happ.apk",
-  "details": "-New meta parameter to reset excluded routes\n-New meta parameters to update and invert per-app-proxy list\n-Added support for remote handling of subscription info updates\n-Improved DNS from json handling for IP addresses + added warnings in case of errors\n-Added handling of happ://crypt links in 'location' header during HTTP redirects (status code 300+)\n-Fixed cases when unsuccessfull background subscription updates caused servers to dissapear\n-Fixed cases when updated data for manual server updates was ignored\n-Minor UI fixes and improvements",
+  "data": "3.18.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.0/Happ.apk",
+  "details": "-Added support for inbound authorizaion between tunnel and xray core\nAdded new per-app-proxy presets\n-Improved flow of requesting notification permission\n-Fixed case when background subscription autoupdate was not invoked\n-Fixed case when logs sharing was not working\n-Fixed case when server pinging via swipe button was not triggerring correct animations\n-Fixed case when server pinging via swipe button was not triggerring correct animations\n-Minor Ui fixes and improvements related to input fields and snackbars",
   "filenum": 1163,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.17.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.17.0/Happ_beta.apk",
-      "details": "-New meta parameter to reset excluded routes\n-New meta parameters to update and invert per-app-proxy list\n-Added support for remote handling of subscription info updates\n-Improved DNS from json handling for IP addresses + added warnings in case of errors\n-Added handling of happ://crypt links in 'location' header during HTTP redirects (status code 300+)\n-Fixed cases when unsuccessfull background subscription updates caused servers to dissapear\n-Fixed cases when updated data for manual server updates was ignored\n-Minor UI fixes and improvements",
+      "version": "3.18.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.0/Happ_beta.apk",
+      "details": "-Added support for inbound authorizaion between tunnel and xray core\nAdded new per-app-proxy presets\n-Improved flow of requesting notification permission\n-Fixed case when background subscription autoupdate was not invoked\n-Fixed case when logs sharing was not working\n-Fixed case when server pinging via swipe button was not triggerring correct animations\n-Fixed case when server pinging via swipe button was not triggerring correct animations\n-Minor Ui fixes and improvements related to input fields and snackbars",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.17.1",
-        "warnweek": "3.17.1",
-        "warnalways": "3.17.1",
+        "warnonce": "3.18.1",
+        "warnweek": "3.18.1",
+        "warnalways": "3.18.1",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.17.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.17.0/Happ.apk",
-      "details": "-New meta parameter to reset excluded routes\n-New meta parameters to update and invert per-app-proxy list\n-Added support for remote handling of subscription info updates\n-Improved DNS from json handling for IP addresses + added warnings in case of errors\n-Added handling of happ://crypt links in 'location' header during HTTP redirects (status code 300+)\n-Fixed cases when unsuccessfull background subscription updates caused servers to dissapear\n-Fixed cases when updated data for manual server updates was ignored\n-Minor UI fixes and improvements",
+      "version": "3.18.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.0/Happ.apk",
+      "details": "-Added support for inbound authorizaion between tunnel and xray core\nAdded new per-app-proxy presets\n-Improved flow of requesting notification permission\n-Fixed case when background subscription autoupdate was not invoked\n-Fixed case when logs sharing was not working\n-Fixed case when server pinging via swipe button was not triggerring correct animations\n-Fixed case when server pinging via swipe button was not triggerring correct animations\n-Minor Ui fixes and improvements related to input fields and snackbars",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.17.1",
-        "warnweek": "3.17.1",
-        "warnalways": "3.17.1",
+        "warnonce": "3.18.1",
+        "warnweek": "3.18.1",
+        "warnalways": "3.18.1",
         "updateonly": "3.6.2"
       }
     }
