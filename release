@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.18.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.1/Happ.apk",
-  "details": "-Improved support for huge json servers' configs\n-Fixed case when app theme & language change was causing app's close\n-Fixed touch & copy zones of input fields (applicable for inbound auth)\n-Fixed case when spinner with empty text was showing dropdown menu with zero size\n-Make dialog's title auto-scalable and single lined\n-Make messages icons (stories & notification permission) sizes consistent",
+  "data": "3.18.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.2/Happ.apk",
+  "details": "-Update internal hosts",
   "filenum": 1163,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.18.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.1/Happ_beta.apk",
-      "details": "-Improved support for huge json servers' configs\n-Fixed case when app theme & language change was causing app's close\n-Fixed touch & copy zones of input fields (applicable for inbound auth)\n-Fixed case when spinner with empty text was showing dropdown menu with zero size\n-Make dialog's title auto-scalable and single lined\n-Make messages icons (stories & notification permission) sizes consistent",
+      "version": "3.18.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.2/Happ_beta.apk",
+      "details": "-Update internal hosts",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.18.2",
-        "warnweek": "3.18.2",
-        "warnalways": "3.18.2",
+        "warnonce": "3.18.3",
+        "warnweek": "3.18.3",
+        "warnalways": "3.18.3",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.18.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.1/Happ.apk",
-      "details": "-Improved support for huge json servers' configs\n-Fixed case when app theme & language change was causing app's close\n-Fixed touch & copy zones of input fields (applicable for inbound auth)\n-Fixed case when spinner with empty text was showing dropdown menu with zero size\n-Make dialog's title auto-scalable and single lined\n-Make messages icons (stories & notification permission) sizes consistent",
+      "version": "3.18.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.2/Happ.apk",
+      "details": "-Update internal hosts",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.18.2",
-        "warnweek": "3.18.2",
-        "warnalways": "3.18.2",
+        "warnonce": "3.18.3",
+        "warnweek": "3.18.3",
+        "warnalways": "3.18.3",
         "updateonly": "3.6.2"
       }
     }
