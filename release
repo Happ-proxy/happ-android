@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.19.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.19.0/Happ.apk",
-  "details": "-Update Xray core 26.3.27\n-Improvements related to stability of provider id checking\n-Multiple improvements for inbound authorization\n-Fixed 'clear' menu option for per-app-proxy\n-Fixed 'mtu' parameter input\n-Multiple UI fixes and improvements",
+  "data": "3.18.3",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.3/Happ.apk",
+  "details": "-Update internal hosts",
   "filenum": 1164,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.19.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.19.0/Happ_beta.apk",
-      "details": "-Update Xray core 26.3.27\n-Improvements related to stability of provider id checking\n-Multiple improvements for inbound authorization\n-Fixed 'clear' menu option for per-app-proxy\n-Fixed 'mtu' parameter input\n-Multiple UI fixes and improvements",
+      "version": "3.18.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.3/Happ_beta.apk",
+      "details": "-Update internal hosts",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.19.1",
-        "warnweek": "3.19.1",
-        "warnalways": "3.19.1",
+        "warnonce": "3.18.4",
+        "warnweek": "3.18.4",
+        "warnalways": "3.18.4",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.19.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.19.0/Happ.apk",
-      "details": "-Update Xray core 26.3.27\n-Improvements related to stability of provider id checking\n-Multiple improvements for inbound authorization\n-Fixed 'clear' menu option for per-app-proxy\n-Fixed 'mtu' parameter input\n-Multiple UI fixes and improvements",
+      "version": "3.18.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.18.3/Happ.apk",
+      "details": "-Update internal hosts",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.19.1",
-        "warnweek": "3.19.1",
-        "warnalways": "3.19.1",
+        "warnonce": "3.18.4",
+        "warnweek": "3.18.4",
+        "warnalways": "3.18.4",
         "updateonly": "3.6.2"
       }
     }
