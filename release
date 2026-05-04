@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.20.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.0/Happ_beta.apk",
-      "details": "-Update Xray core 26.3.27\n-Improvements related to stability of provider id checking\n-Multiple improvements for inbound authorization\n-Fixed 'clear' menu option for per-app-proxy\n-Fixed 'mtu' parameter input\n-Fixed logs core mode was forcibly set as 'disabled' when connecting to encrypted sub\n-Multiple UI fixes and improvements",
+      "version": "3.20.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.1/Happ_beta.apk",
+      "details": "-Migration to system image picker for QR code scanning from gallery (no image permission required)\n-Set default inbound authorization mode to "disable"",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.20.1",
-        "warnweek": "3.20.1",
-        "warnalways": "3.20.1",
+        "warnonce": "3.20.2",
+        "warnweek": "3.20.2",
+        "warnalways": "3.20.2",
         "updateonly": "3.6.2"
       }
     },
