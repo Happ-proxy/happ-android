@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.20.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.1/Happ_beta.apk",
-      "details": "-Migration to system image picker for QR code scanning from gallery (no image permission required)\n-Set default inbound authorization mode to "disable"",
+      "version": "3.20.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.2/Happ_beta.apk",
+      "details": "-Migrate from fragment interval to fragment delay",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.20.2",
-        "warnweek": "3.20.2",
-        "warnalways": "3.20.2",
+        "warnonce": "3.20.3",
+        "warnweek": "3.20.3",
+        "warnalways": "3.20.3",
         "updateonly": "3.6.2"
       }
     },
