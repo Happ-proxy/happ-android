@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.19.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.19.1/Happ.apk",
-  "details": "-revert",
+  "data": "3.20.2",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.2/Happ.apk",
+  "details": "-Update Xray core 26.3.27\n-Improvements related to stability of provider id checking\n-Multiple improvements for inbound authorization\n-Fixed 'clear' menu option for per-app-proxy\n-Fixed 'mtu' parameter input\n-Fixed logs core mode was forcibly set as 'disabled' when connecting to encrypted sub\n-Multiple UI fixes and improvements\n-Add Xray Tun\n-Add block bind to interface tun\n-Migration to system image picker for QR code scanning from gallery (no image permission required)\n-Set default inbound authorization mode to 'disable'\n-Migrate from fragment interval to fragment delay",
   "filenum": 1165,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.19.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.19.1/Happ.apk",
-      "details": "-revert",
+      "version": "3.20.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.2/Happ.apk",
+      "details": "-Update Xray core 26.3.27\n-Improvements related to stability of provider id checking\n-Multiple improvements for inbound authorization\n-Fixed 'clear' menu option for per-app-proxy\n-Fixed 'mtu' parameter input\n-Fixed logs core mode was forcibly set as 'disabled' when connecting to encrypted sub\n-Multiple UI fixes and improvements\n-Add Xray Tun\n-Add block bind to interface tun\n-Migration to system image picker for QR code scanning from gallery (no image permission required)\n-Set default inbound authorization mode to 'disable'\n-Migrate from fragment interval to fragment delay",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.19.4",
-        "warnweek": "3.19.4",
-        "warnalways": "3.19.4",
+        "warnonce": "3.20.3",
+        "warnweek": "3.20.3",
+        "warnalways": "3.20.3",
         "updateonly": "3.6.2"
       }
     }
