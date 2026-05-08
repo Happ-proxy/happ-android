@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.20.3",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.3/Happ.apk",
-  "details": "-Fix fronting fragment",
-  "filenum": 1165,
+  "data": "3.20.4",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ.apk",
+  "details": "-Internal fix",
+  "filenum": 1166,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.20.3",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.3/Happ_beta.apk",
-      "details": "-Fix fronting fragment",
+      "version": "3.20.4",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ_beta.apk",
+      "details": "-Internal fix",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.20.4",
-        "warnweek": "3.20.4",
-        "warnalways": "3.20.4",
+        "warnonce": "3.20.5",
+        "warnweek": "3.20.5",
+        "warnalways": "3.20.5",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.20.3",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.3/Happ.apk",
-      "details": "-Fix fronting fragment",
+      "version": "3.20.4",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ.apk",
+      "details": "-Internal fix",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.20.4",
-        "warnweek": "3.20.4",
-        "warnalways": "3.20.4",
+        "warnonce": "3.20.5",
+        "warnweek": "3.20.5",
+        "warnalways": "3.20.5",
         "updateonly": "3.6.2"
       }
     }
