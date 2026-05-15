@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.20.4",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ_beta.apk",
-      "details": "-Internal fix",
+      "version": "3.21.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.21.0/Happ_beta.apk",
+      "details": "-App widget redesign\n-Optimizations of subscriptions' statuses evaluation performance and stability\n-Added option to customize subscriptions' request timeout\n-Improved ping for hysteria configs\n-Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens\n-Set fixed duration for TV's snackbars\n-Fixed logs block during xray config building\n-Fixed hysteria sni and udpHop params\n-Fixed servers list spring animation during servers' updates\n-Minor UI improvements",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.20.5",
-        "warnweek": "3.20.5",
-        "warnalways": "3.20.5",
+        "warnonce": "3.21.1",
+        "warnweek": "3.21.1",
+        "warnalways": "3.21.1",
         "updateonly": "3.6.2"
       }
     },
