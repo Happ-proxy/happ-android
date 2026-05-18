@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.20.4",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ.apk",
-  "details": "-Internal fix",
+  "data": "3.21.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.21.1/Happ.apk",
+  "details": "-App widget redesign\n-Optimizations of subscriptions' statuses evaluation performance and stability\n-Added option to customize subscriptions' request timeout\n-Improved ping for hysteria configs\n-Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens\n-Set fixed duration for TV's snackbars\n-Fixed logs block during xray config building\n-Fixed hysteria sni and udpHop params\n-Fixed servers list spring animation during servers' updates\n-Minor UI improvements\n-Fixed cases when some 'final mask' properties were not correctly applied",
   "filenum": 1166,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.21.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.21.0/Happ_beta.apk",
-      "details": "-App widget redesign\n-Optimizations of subscriptions' statuses evaluation performance and stability\n-Added option to customize subscriptions' request timeout\n-Improved ping for hysteria configs\n-Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens\n-Set fixed duration for TV's snackbars\n-Fixed logs block during xray config building\n-Fixed hysteria sni and udpHop params\n-Fixed servers list spring animation during servers' updates\n-Minor UI improvements",
+      "version": "3.21.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.21.1/Happ_beta.apk",
+      "details": "-Fixed cases when some 'final mask' properties were not correctly applied\n-Fixed app widget content was cut by system shape",
+      "update": {
+        "nowarn": "3.100.1",
+        "warnonce": "3.21.2",
+        "warnweek": "3.21.2",
+        "warnalways": "3.21.2",
+        "updateonly": "3.6.2"
+      }
+    },
+    "stable": {
+      "version": "3.21.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.21.1/Happ.apk",
+      "details": "-App widget redesign\n-Optimizations of subscriptions' statuses evaluation performance and stability\n-Added option to customize subscriptions' request timeout\n-Improved ping for hysteria configs\n-Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens\n-Set fixed duration for TV's snackbars\n-Fixed logs block during xray config building\n-Fixed hysteria sni and udpHop params\n-Fixed servers list spring animation during servers' updates\n-Minor UI improvements\n-Fixed cases when some 'final mask' properties were not correctly applied",
       "update": {
         "nowarn": "3.100.1",
         "warnonce": "3.21.1",
         "warnweek": "3.21.1",
         "warnalways": "3.21.1",
-        "updateonly": "3.6.2"
-      }
-    },
-    "stable": {
-      "version": "3.20.4",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ.apk",
-      "details": "-Internal fix",
-      "update": {
-        "nowarn": "3.100.1",
-        "warnonce": "3.20.5",
-        "warnweek": "3.20.5",
-        "warnalways": "3.20.5",
         "updateonly": "3.6.2"
       }
     }
