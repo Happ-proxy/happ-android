@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.22.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.22.0/Happ_beta.apk",
-      "details": "-Updates and improvements for inbounds section\n-Added header type for VLESS on server info screen\n-Minor redesign of 'Reset' screen\n-Improvements of provider checks flow's stability\n-Fixed case when manually entered title was ignored for crypt subscription\n-Minor fixes for DNS from JSON inbound mode",
+      "version": "3.22.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.22.1/Happ_beta.apk",
+      "details": "-Fixed stability of internal provider check flow\n-WebView of FAQ is replaced with a browser opening",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.22.1",
-        "warnweek": "3.22.1",
-        "warnalways": "3.22.1",
+        "warnonce": "3.22.2",
+        "warnweek": "3.22.2",
+        "warnalways": "3.22.2",
         "updateonly": "3.6.2"
       }
     },
