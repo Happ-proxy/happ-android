@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.21.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.21.1/Happ.apk",
-  "details": "-App widget redesign\n-Optimizations of subscriptions' statuses evaluation performance and stability\n-Added option to customize subscriptions' request timeout\n-Improved ping for hysteria configs\n-Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens\n-Set fixed duration for TV's snackbars\n-Fixed logs block during xray config building\n-Fixed hysteria sni and udpHop params\n-Fixed servers list spring animation during servers' updates\n-Minor UI improvements\n-Fixed cases when some 'final mask' properties were not correctly applied",
+  "data": "3.22.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.22.1/Happ.apk",
+  "details": "-Updates and improvements for inbounds section\nAdded header type for VLESS on server info screen\n-Minor redesign of 'Reset' screen\n-Improvements of provider checks flow's stability\n-WebView of FAQ is replaced with a browser opening\n-Fixed stability of internal provider check flow\n-Fixed case when manually entered title was ignored for crypt subscription\n-Minor fixes for DNS from JSON inbound mode",
   "filenum": 1166,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.21.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.21.1/Happ.apk",
-      "details": "-App widget redesign\n-Optimizations of subscriptions' statuses evaluation performance and stability\n-Added option to customize subscriptions' request timeout\n-Improved ping for hysteria configs\n-Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens\n-Set fixed duration for TV's snackbars\n-Fixed logs block during xray config building\n-Fixed hysteria sni and udpHop params\n-Fixed servers list spring animation during servers' updates\n-Minor UI improvements\n-Fixed cases when some 'final mask' properties were not correctly applied",
+      "version": "3.22.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.22.1/Happ.apk",
+      "details": "-Updates and improvements for inbounds section\nAdded header type for VLESS on server info screen\n-Minor redesign of 'Reset' screen\n-Improvements of provider checks flow's stability\n-WebView of FAQ is replaced with a browser opening\n-Fixed stability of internal provider check flow\n-Fixed case when manually entered title was ignored for crypt subscription\n-Minor fixes for DNS from JSON inbound mode",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.21.1",
-        "warnweek": "3.21.1",
-        "warnalways": "3.21.1",
+        "warnonce": "3.22.2",
+        "warnweek": "3.22.2",
+        "warnalways": "3.22.2",
         "updateonly": "3.6.2"
       }
     }
