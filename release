@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.22.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.22.1/Happ.apk",
-  "details": "-Updates and improvements for inbounds section\nAdded header type for VLESS on server info screen\n-Minor redesign of 'Reset' screen\n-Improvements of provider checks flow's stability\n-WebView of FAQ is replaced with a browser opening\n-Fixed stability of internal provider check flow\n-Fixed case when manually entered title was ignored for crypt subscription\n-Minor fixes for DNS from JSON inbound mode",
+  "data": "3.23.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.23.0/Happ.apk",
+  "details": "-Feat: added support of pcn (verifyPeerCertByName) parameter for TLS\n-Fix: noises types parsing\n-Fix: TV remote control navigation on logs screen\n-Fix: final mask url-encoded parsing\n-Fix: quick settings (tile in expanded status bar) on/off states switching\n-Fix: debounced event handling of power button",
   "filenum": 1166,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "3.22.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.22.1/Happ.apk",
-      "details": "-Updates and improvements for inbounds section\nAdded header type for VLESS on server info screen\n-Minor redesign of 'Reset' screen\n-Improvements of provider checks flow's stability\n-WebView of FAQ is replaced with a browser opening\n-Fixed stability of internal provider check flow\n-Fixed case when manually entered title was ignored for crypt subscription\n-Minor fixes for DNS from JSON inbound mode",
+      "version": "3.23.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.23.0/Happ.apk",
+      "details": "-Feat: added support of pcn (verifyPeerCertByName) parameter for TLS\n-Fix: noises types parsing\n-Fix: TV remote control navigation on logs screen\n-Fix: final mask url-encoded parsing\n-Fix: quick settings (tile in expanded status bar) on/off states switching\n-Fix: debounced event handling of power button",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.22.2",
-        "warnweek": "3.22.2",
-        "warnalways": "3.22.2",
+        "warnonce": "3.23.1",
+        "warnweek": "3.23.1",
+        "warnalways": "3.23.1",
         "updateonly": "3.6.2"
       }
     }
