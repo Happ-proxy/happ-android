@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.23.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.23.0/Happ_beta.apk",
-      "details": "-Feat: added support of pcn (verifyPeerCertByName) parameter for TLS\n-Fix: noises types parsing\n-Fix: TV remote control navigation on logs screen\n-Fix: final mask url-encoded parsing\n-Fix: quick settings (tile in expanded status bar) on/off states switching\n-Fix: debounced event handling of power button",
+      "version": "3.24.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.24.0/Happ_beta.apk",
+      "details": "-New notifications features\n-Live Update notifications for Android 16+\n-Major Internal updates to improve stability of fetching subscription features\n-Minor fixes and improvements",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.23.1",
-        "warnweek": "3.23.1",
-        "warnalways": "3.23.1",
+        "warnonce": "3.24.1",
+        "warnweek": "3.24.1",
+        "warnalways": "3.24.1",
         "updateonly": "3.6.2"
       }
     },
