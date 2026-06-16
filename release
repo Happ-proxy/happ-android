@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.23.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.23.0/Happ.apk",
-  "details": "-Feat: added support of pcn (verifyPeerCertByName) parameter for TLS\n-Fix: noises types parsing\n-Fix: TV remote control navigation on logs screen\n-Fix: final mask url-encoded parsing\n-Fix: quick settings (tile in expanded status bar) on/off states switching\n-Fix: debounced event handling of power button",
+  "data": "3.24.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.24.1/Happ.apk",
+  "details": "-New notifications features\n-Live Update notifications for Android 16+\n-Major Internal updates to improve stability of fetching subscription features\n-Minor fixes and improvements\n-Fixed cases of subscription updates from dot-menu",
   "filenum": 1166,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.24.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.24.0/Happ_beta.apk",
-      "details": "-New notifications features\n-Live Update notifications for Android 16+\n-Major Internal updates to improve stability of fetching subscription features\n-Minor fixes and improvements",
+      "version": "3.24.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.24.1/Happ_beta.apk",
+      "details": "-Minor updates for Live Updates capabilities (Android 16.1+)\n-Fixed compatibility issues for old Android APIs\n-Fixed cases of subscription updates from dot-menu",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.24.1",
-        "warnweek": "3.24.1",
-        "warnalways": "3.24.1",
+        "warnonce": "3.24.2",
+        "warnweek": "3.24.2",
+        "warnalways": "3.24.2",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.23.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.23.0/Happ.apk",
-      "details": "-Feat: added support of pcn (verifyPeerCertByName) parameter for TLS\n-Fix: noises types parsing\n-Fix: TV remote control navigation on logs screen\n-Fix: final mask url-encoded parsing\n-Fix: quick settings (tile in expanded status bar) on/off states switching\n-Fix: debounced event handling of power button",
+      "version": "3.24.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.24.1/Happ.apk",
+      "details": "-New notifications features\n-Live Update notifications for Android 16+\n-Major Internal updates to improve stability of fetching subscription features\n-Minor fixes and improvements\n-Fixed cases of subscription updates from dot-menu",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.23.1",
-        "warnweek": "3.23.1",
-        "warnalways": "3.23.1",
+        "warnonce": "3.24.2",
+        "warnweek": "3.24.2",
+        "warnalways": "3.24.2",
         "updateonly": "3.6.2"
       }
     }
