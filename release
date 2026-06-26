@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.24.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.24.1/Happ_beta.apk",
-      "details": "-Minor updates for Live Updates capabilities (Android 16.1+)\n-Fixed compatibility issues for old Android APIs\n-Fixed cases of subscription updates from dot-menu",
+      "version": "3.25.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.25.0/Happ_beta.apk",
+      "details": "-Support for automated deeplink handling (MacroDroid, etc.)\n-Redesign of subscription actions bottom sheet\n-Internal improvements of servers parsing and sharing\n-Fixed parsing of udp hop ports parameter\n-Fixed splash screen white for Android TV 11+\n-Fixed case when QR code to share subscriptions with TV was out of screen bounds\n-Fixed save button on server manual input screen was not focusable\n-Minor fixes of navigation with remote control (TV) in tunnel settings\n-Minor fixes for persian translation\n-Fixed case when manually entered title of crypto subscription was not applied\n-Fixed visual effects of subscriptions ping and updates\n-Minor fixes related to text scaling",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.24.2",
-        "warnweek": "3.24.2",
-        "warnalways": "3.24.2",
+        "warnonce": "3.25.1",
+        "warnweek": "3.25.1",
+        "warnalways": "3.25.1",
         "updateonly": "3.6.2"
       }
     },
