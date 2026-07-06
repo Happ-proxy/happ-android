@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.26.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.0/Happ_beta.apk",
+      "version": "3.26.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.1/Happ_beta.apk",
       "details": "-Improved and extended ping flow (modes)\n-Allow from LAN for JSON servers\n-Minor UI updates and animations improvements\n-Internal stability improvements",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.26.1",
-        "warnweek": "3.26.1",
-        "warnalways": "3.26.1",
+        "warnonce": "3.26.2",
+        "warnweek": "3.26.2",
+        "warnalways": "3.26.2",
         "updateonly": "3.6.2"
       }
     },
