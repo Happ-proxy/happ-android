@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "3.26.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.1/Happ_beta.apk",
-      "details": "-Improved and extended ping flow (modes)\n-Allow from LAN for JSON servers\n-Minor UI updates and animations improvements\n-Internal stability improvements",
+      "version": "3.26.2",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.2/Happ_beta.apk",
+      "details": "-Xray core 26.6.27\n-Improved input validation for subscription import\n-Minor localization improvements",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.26.2",
-        "warnweek": "3.26.2",
-        "warnalways": "3.26.2",
+        "warnonce": "3.26.3",
+        "warnweek": "3.26.3",
+        "warnalways": "3.26.3",
         "updateonly": "3.6.2"
       }
     },
