@@ -3,33 +3,33 @@
   "ret": 1,
   "msg": "ok",
   "data": "3.26.2",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.2/Happ.apk",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.3/Happ.apk",
   "details": "-Update Xray Core to 26.6.27\n-Improved and extended ping flow (modes)\n-Allow from LAN for JSON servers\n-Improved input validation for subscription import\n-Minor UI updates and animations improvements\n-Internal stability improvements\n-Minor localization improvements",
   "filenum": 1167,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.26.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.2/Happ_beta.apk",
-      "details": "-Xray core 26.6.27\n-Improved input validation for subscription import\n-Minor localization improvements",
+      "version": "3.26.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.3/Happ_beta.apk",
+      "details": "-Internal fixes",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.26.3",
-        "warnweek": "3.26.3",
-        "warnalways": "3.26.3",
+        "warnonce": "3.26.4",
+        "warnweek": "3.26.4",
+        "warnalways": "3.26.4",
         "updateonly": "3.6.2"
       }
     },
     "stable": {
-      "version": "3.26.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.2/Happ.apk",
-      "details": "-Update Xray Core to 26.6.27\n-Improved and extended ping flow (modes)\n-Allow from LAN for JSON servers\n-Improved input validation for subscription import\n-Minor UI updates and animations improvements\n-Internal stability improvements\n-Minor localization improvements",
+      "version": "3.26.3",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.3/Happ.apk",
+      "details": "-Internal fixes",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.26.3",
-        "warnweek": "3.26.3",
-        "warnalways": "3.26.3",
+        "warnonce": "3.26.4",
+        "warnweek": "3.26.4",
+        "warnalways": "3.26.4",
         "updateonly": "3.6.2"
       }
     }
