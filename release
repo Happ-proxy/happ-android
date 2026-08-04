@@ -4,7 +4,7 @@
   "msg": "ok",
   "data": "4.0.1",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.0.1/Happ.apk",
-  "details": "-Update Xray Core to 26.6.27\n-Improved and extended ping flow (modes)\n-Allow from LAN for JSON servers\n-Improved input validation for subscription import\n-Minor UI updates and animations improvements\n-Internal stability improvements\n-Minor localization improvements",
+  "details": "-Major update to the routing flow: linking profiles to subscriptions\n-Geo file download manager\n-Improved logging for push notifications\n-Minor fixes related to parsing, localization and UI improvements",
   "filenum": 1167,
   "apk": {
     "block": [
