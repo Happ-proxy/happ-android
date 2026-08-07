@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "4.0.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.0.1/Happ_beta.apk",
-      "details": "-Major update to the routing flow: linking profiles to subscriptions\n-Geo file download manager\n-Improved logging for push notifications\n-Minor fixes related to parsing, localization and UI improvements",
+      "version": "4.1.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.1.0/Happ_beta.apk",
+      "details": "-Multiple fixes and improvements for subscription's routing and geo-file manager's UX/UI\n-Fixed minor issues related to 'finalMask' parameter parsing\n-Fixed geo tags missing during search",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.0.2",
-        "warnweek": "4.0.2",
-        "warnalways": "4.0.2",
+        "warnonce": "4.1.1",
+        "warnweek": "4.1.1",
+        "warnalways": "4.1.1",
         "updateonly": "3.6.2"
       }
     },
