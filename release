@@ -12,7 +12,7 @@
     "beta": {
       "version": "4.3.0",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.3.0/Happ_beta.apk",
-      "details": "-Multiple improvements for the update flow\n-Added support of proxy ping timeout configuration\n-New snackbars implementation for new routing screens\n-Fixed geo file url changes not applied immediately\n-Auth fix for proxy-only mode\n-Fixed xhttp sc params parsing\n-Fixed routing.rules parsing\n-Other stability improvements and minor fixes"
+      "details": "-Multiple improvements for the update flow\n-Added support of proxy ping timeout configuration\n-New snackbars implementation for new routing screens\n-Fixed geo file url changes not applied immediately\n-Auth fix for proxy-only mode\n-Fixed xhttp sc params parsing\n-Fixed routing.rules parsing\n-Other stability improvements and minor fixes",
       "update": {
         "nowarn": "4.100.1",
         "warnonce": "4.3.1",
