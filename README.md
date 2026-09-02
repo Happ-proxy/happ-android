@@ -1,5 +1,7 @@
 # Happ - Proxy Utility
 
+[![Validate Release JSON](https://github.com/Happ-proxy/happ-android/actions/workflows/validate-release.yml/badge.svg)](https://github.com/Happ-proxy/happ-android/actions/workflows/validate-release.yml)
+
 | iOS                                                                        | Android                                                                                                                                                             | Desktop                                                                                                         |
 | -------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------- |
 | [App Store-Global](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215) | [Google Play](https://play.google.com/store/apps/details?id=com.happproxy)                                                                                          | [Windows](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)/[mirror](https://files-hub.com/download/windows/latest?arch=x64)        |
