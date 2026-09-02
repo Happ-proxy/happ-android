@@ -1,4 +1,4 @@
-name: Validate Release JSON
+name: Build
 
 on:
   push:
