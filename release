@@ -2,7 +2,7 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "4.3.0",
+  "data": "4.3.0"
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.3.0/Happ.apk",
   "details": "-Major improvements and redesign of app update flow\n-Added support of proxy ping timeout configuration\n-New snackbars implementation for new routing screens\n-Fixed issues with routing profiles' updates and geofiles' downloading\n-Fixed geo file url changes not applied immediately\n-Auth fix for proxy-only mode\n-Fixed issues with happ://onadd not activated profile and routing\n-Fixed case when profile copied from another sub was not shown immediately\n-Fixed profile-copy reinitialization was causing infinite load\n-Fixed case when deleted profile was visible after returning back from the profile details screen\n-Minor fixes for geofile download card state updates\n-Fixed happ://toggle_without_ui was not turning off the connection\n-Fixed 'new-domain' parameter port handling\n-Fixed parsing of 'finalMask' parameter that was encoded more that once\n-Fixed issues with log files cut & UI updates\n-Fixed xhttp sc params parsing\n-Fixed routing.rules parsing",
   "filenum": 1167,
