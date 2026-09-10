@@ -12,7 +12,7 @@
     "beta": {
       "version": "4.4.0",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.4.0/Happ_beta.apk",
-      "details": "-Migration to hev-socks5-tunnel\n-Multiple optimizations for the application's physical memory usage on the device\n-Redesign & major improvements of subscription create / update dialog sheet\n-Improvements for TV interface navigation on routing screens\n-Improved 'hide-settings' parameter handling\n-Support for 'vcn' parameter (as backup for 'pcn')\n-Fixed geo-files updates & "LastUpdated" parameter handling\n-Fixed missing 'ping' action in subscription dot-menu list\n-Fixed cases when TCP ping may cause infinite loading animation\n-Fixed several issues related to stability of providerId checks\n-Minor ui improvements and fixes",
+      "details": "-Migration to hev-socks5-tunnel\n-Multiple optimizations for the application's physical memory usage on the device\n-Redesign & major improvements of subscription create / update dialog sheet\n-Improvements for TV interface navigation on routing screens\n-Improved 'hide-settings' parameter handling\n-Support for 'vcn' parameter (as backup for 'pcn')\n-Fixed geo-files updates & 'LastUpdated' parameter handling\n-Fixed missing 'ping' action in subscription dot-menu list\n-Fixed cases when TCP ping may cause infinite loading animation\n-Fixed several issues related to stability of providerId checks\n-Minor ui improvements and fixes",
       "update": {
         "nowarn": "4.100.1",
         "warnonce": "4.4.1",
