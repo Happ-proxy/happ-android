@@ -5,7 +5,7 @@
   "data": "4.4.1",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.4.1/Happ.apk",
   "details": "-Migration to hev-socks5-tunnel\n-Optimizations for the application's physical memory usage on the device\n-Redesign & major improvements of subscription input dialog sheet\n-Improvements for TV interface navigation on routing screens\n-Improved 'hide-settings' parameter handling\n-Support for 'vcn' parameter (as backup for 'pcn')\n-Fixed geo-files updates & 'LastUpdated' parameter handling\n-Fixed missing 'ping' action in subscription dot-menu list\n-Fixed cases when TCP ping may cause infinite loading animation\n-Fixed several issues related to stability of providerId checks",
-  "filenum": 1167,
+  "filenum": 1168,
   "apk": {
     "block": [
     ],
@@ -18,7 +18,7 @@
         "warnonce": "4.4.2",
         "warnweek": "4.4.2",
         "warnalways": "4.4.2",
-        "updateonly": "3.6.2"
+        "updateonly": "3.26.3"
       }
     },
     "stable": {
@@ -30,7 +30,7 @@
         "warnonce": "4.4.2",
         "warnweek": "4.4.2",
         "warnalways": "4.4.2",
-        "updateonly": "3.6.2"
+        "updateonly": "3.26.3"
       }
     }
   },
