@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "4.5.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.5.0/Happ_beta.apk",
-      "details": "-Major update of subscriptions' individual parameter management\n-Added support of 'fallback-url' in URL's fragment\n-UX updates for app update flow\n-Fixed url input clearing in subscription input menu\n-Improving the stability of the subscription storage",
+      "version": "4.6.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.0/Happ_beta.apk",
+      "details": "-Major internal updates of subscriptions management\n-Stability improvements for auto-updates",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.5.1",
-        "warnweek": "4.5.1",
-        "warnalways": "4.5.1",
+        "warnonce": "4.6.1",
+        "warnweek": "4.6.1",
+        "warnalways": "4.6.1",
         "updateonly": "3.26.2"
       }
     },
