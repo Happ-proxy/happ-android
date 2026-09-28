@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "4.4.1",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.4.1/Happ.apk",
-  "details": "-Migration to hev-socks5-tunnel\n-Optimizations for the application's physical memory usage on the device\n-Redesign & major improvements of subscription input dialog sheet\n-Improvements for TV interface navigation on routing screens\n-Improved 'hide-settings' parameter handling\n-Support for 'vcn' parameter (as backup for 'pcn')\n-Fixed geo-files updates & 'LastUpdated' parameter handling\n-Fixed missing 'ping' action in subscription dot-menu list\n-Fixed cases when TCP ping may cause infinite loading animation\n-Fixed several issues related to stability of providerId checks",
+  "data": "4.6.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.0/Happ.apk",
+  "details": "-Major update of subscriptions' individual parameter management\n-Added support of 'fallback-url' in URL's fragment\n-UX updates for app update flow\n-Fixed url input clearing in subscription input menu\n-Major internal updates of subscriptions management\n-Stability improvements for auto-updates",
   "filenum": 1168,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "4.4.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.4.1/Happ.apk",
-      "details": "-Migration to hev-socks5-tunnel\n-Optimizations for the application's physical memory usage on the device\n-Redesign & major improvements of subscription input dialog sheet\n-Improvements for TV interface navigation on routing screens\n-Improved 'hide-settings' parameter handling\n-Support for 'vcn' parameter (as backup for 'pcn')\n-Fixed geo-files updates & 'LastUpdated' parameter handling\n-Fixed missing 'ping' action in subscription dot-menu list\n-Fixed cases when TCP ping may cause infinite loading animation\n-Fixed several issues related to stability of providerId checks",
+      "version": "4.6.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.0/Happ.apk",
+      "details": "-Major update of subscriptions' individual parameter management\n-Added support of 'fallback-url' in URL's fragment\n-UX updates for app update flow\n-Fixed url input clearing in subscription input menu\n-Major internal updates of subscriptions management\n-Stability improvements for auto-updates",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.4.2",
-        "warnweek": "4.4.2",
-        "warnalways": "4.4.2",
+        "warnonce": "4.6.1",
+        "warnweek": "4.6.1",
+        "warnalways": "4.6.1",
         "updateonly": "3.26.2"
       }
     }
