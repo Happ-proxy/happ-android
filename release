@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "4.6.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.0/Happ.apk",
-  "details": "-Major update of subscriptions' individual parameter management\n-Added support of 'fallback-url' in URL's fragment\n-UX updates for app update flow\n-Fixed url input clearing in subscription input menu\n-Major internal updates of subscriptions management\n-Stability improvements for auto-updates",
+  "data": "4.6.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.1/Happ.apk",
+  "details": "-Minor UX improvements",
   "filenum": 1168,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "4.6.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.0/Happ_beta.apk",
-      "details": "-Major internal updates of subscriptions management\n-Stability improvements for auto-updates",
+      "version": "4.6.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.1/Happ_beta.apk",
+      "details": "-Minor UX improvements",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.6.1",
-        "warnweek": "4.6.1",
-        "warnalways": "4.6.1",
+        "warnonce": "4.6.2",
+        "warnweek": "4.6.2",
+        "warnalways": "4.6.2",
         "updateonly": "3.26.2"
       }
     },
     "stable": {
-      "version": "4.6.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.0/Happ.apk",
-      "details": "-Major update of subscriptions' individual parameter management\n-Added support of 'fallback-url' in URL's fragment\n-UX updates for app update flow\n-Fixed url input clearing in subscription input menu\n-Major internal updates of subscriptions management\n-Stability improvements for auto-updates",
+      "version": "4.6.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.6.1/Happ.apk",
+      "details": "-Minor UX improvements",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.6.1",
-        "warnweek": "4.6.1",
-        "warnalways": "4.6.1",
+        "warnonce": "4.6.2",
+        "warnweek": "4.6.2",
+        "warnalways": "4.6.2",
         "updateonly": "3.26.2"
       }
     }
