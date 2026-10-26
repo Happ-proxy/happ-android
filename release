@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "4.8.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.8.0/Happ.apk",
-  "details": "-Added option to choose OkHttp version (legacy and modern)\n-Improved UX for routing profiles on TV\n-Added informational warning to switch current server selection when it was hidden by the network filter\n-Fixed insecure connection was not applied when it was manually requested\n-Minor UI fixes and improvements",
+  "data": "4.9.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.9.0/Happ.apk",
+  "details": "-Xray core 26.10\n-Improved UX/UI for logs\n-Added server sort type for Server-List\n-Input & keyboard positioning improvements for TV\n-Improved stability of routing for JSON configurations\n-Fixed servers' ping was not triggered after subscription's update if sort type is 'ping'\n-Minor parsing fixes",
   "filenum": 1168,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "4.7.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.8.0/Happ.apk",
-      "details": "-Added option to choose OkHttp version (legacy and modern)\n-Improved UX for routing profiles on TV\n-Added informational warning to switch current server selection when it was hidden by the network filter\n-Fixed insecure connection was not applied when it was manually requested\n-Minor UI fixes and improvements",
+      "version": "4.9.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.9.0/Happ.apk",
+      "details": "-Xray core 26.10\n-Improved UX/UI for logs\n-Added server sort type for Server-List\n-Input & keyboard positioning improvements for TV\n-Improved stability of routing for JSON configurations\n-Fixed servers' ping was not triggered after subscription's update if sort type is 'ping'\n-Minor parsing fixes",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.8.1",
-        "warnweek": "4.8.1",
-        "warnalways": "4.8.1",
+        "warnonce": "4.9.1",
+        "warnweek": "4.9.1",
+        "warnalways": "4.9.1",
         "updateonly": "3.26.2"
       }
     }
