@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "4.10.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.10.0/Happ_beta.apk",
-      "details": "-Major update for subscriptions' settings & editing\n-Major UX improvements for custom (json) servers input handling\n-Stability improvements for push notifications and remote commands receiving\n-Added support of fronting params from 'new-url' parameter\n-Stability improvements of subsriptions' fetching flow\n-Fixed various cases for fallback-url usage\n-Fixed race condition during concurrent subscriptions' background updates that was breaking previous server selection\n-Other improvements and fixes",
+      "version": "4.10.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.10.1/Happ_beta.apk",
+      "details": "-Xray 26.10.31\n-Minor improvements & fixes",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.10.1",
-        "warnweek": "4.10.1",
-        "warnalways": "4.10.1",
+        "warnonce": "4.10.2",
+        "warnweek": "4.10.2",
+        "warnalways": "4.10.2",
         "updateonly": "3.26.2"
       }
     },
