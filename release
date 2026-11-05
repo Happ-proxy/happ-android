@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "4.9.0",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.9.0/Happ.apk",
-  "details": "-Xray core 26.10\n-Improved UX/UI for logs\n-Added server sort type for Server-List\n-Input & keyboard positioning improvements for TV\n-Improved stability of routing for JSON configurations\n-Fixed servers' ping was not triggered after subscription's update if sort type is 'ping'\n-Minor parsing fixes",
+  "data": "4.10.1",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.10.1/Happ.apk",
+  "details": "-Xray 26.10.31\n-Major update for subscriptions' settings & editing\n-Major UX improvements for custom (json) servers input handling\n-Stability improvements for push notifications and remote commands receiving\n-Added support of fronting params from 'new-url' parameter\n-Stability improvements of subsriptions' fetching flow\n-Fixed various cases for fallback-url usage\n-Fixed race condition during concurrent subscriptions' background updates that was breaking previous server selection\n-Other improvements and fixes",
   "filenum": 1168,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "4.9.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.9.0/Happ.apk",
-      "details": "-Xray core 26.10\n-Improved UX/UI for logs\n-Added server sort type for Server-List\n-Input & keyboard positioning improvements for TV\n-Improved stability of routing for JSON configurations\n-Fixed servers' ping was not triggered after subscription's update if sort type is 'ping'\n-Minor parsing fixes",
+      "version": "4.10.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.10.1/Happ.apk",
+      "details": "-Xray 26.10.31\n-Major update for subscriptions' settings & editing\n-Major UX improvements for custom (json) servers input handling\n-Stability improvements for push notifications and remote commands receiving\n-Added support of fronting params from 'new-url' parameter\n-Stability improvements of subsriptions' fetching flow\n-Fixed various cases for fallback-url usage\n-Fixed race condition during concurrent subscriptions' background updates that was breaking previous server selection\n-Other improvements and fixes",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.9.1",
-        "warnweek": "4.9.1",
-        "warnalways": "4.9.1",
+        "warnonce": "4.10.2",
+        "warnweek": "4.10.2",
+        "warnalways": "4.10.2",
         "updateonly": "3.26.2"
       }
     }
