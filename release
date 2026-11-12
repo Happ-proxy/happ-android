@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "4.11.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.11.0/Happ_beta.apk",
-      "details": "-UX/UI improvements for stories, sharing to TV, logs and other\n-Added fakedns support to xray tun\n-Stability improvements for subscription imports and concurrent updates\n-Other minor improvements and fixes",
+      "version": "4.11.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.11.1/Happ_beta.apk",
+      "details": "-Added host params to WS settings"
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.11.1",
-        "warnweek": "4.11.1",
-        "warnalways": "4.11.1",
+        "warnonce": "4.11.2",
+        "warnweek": "4.11.2",
+        "warnalways": "4.11.2",
         "updateonly": "3.26.2"
       }
     },
