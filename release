@@ -12,7 +12,7 @@
     "beta": {
       "version": "4.11.1",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.11.1/Happ_beta.apk",
-      "details": "-Added host params to WS settings"
+      "details": "-Added host params to WS settings",
       "update": {
         "nowarn": "4.100.1",
         "warnonce": "4.11.2",
