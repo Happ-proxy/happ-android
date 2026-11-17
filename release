@@ -24,7 +24,7 @@
     "stable": {
       "version": "4.11.2",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.11.2/Happ.apk",
-      "details": "-UX/UI improvements for stories, sharing to TV, logs and other\n-Added fakedns support to xray tun\n-Stability improvements for subscription imports and concurrent updates\n-Added host params to WS settings\n-Autoswitch on WiFi max timeout reduced to 20 seconds\n-Fixed local DNS on non-custom server configurations\n-Other minor improvements and fixes",
+      "details": "-UX/UI improvements for stories, sharing to TV, logs and other\n-Added fakedns support to xray tun\n-Stability improvements for subscription imports and concurrent updates\n-Added host params to WS settings\n-Autoswitch on WiFi max timeout reduced to 20 minutes\n-Fixed local DNS on non-custom server configurations\n-Other minor improvements and fixes",
       "update": {
         "nowarn": "4.100.1",
         "warnonce": "4.11.3",
