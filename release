@@ -12,7 +12,7 @@
     "beta": {
       "version": "4.11.2",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.11.2/Happ_beta.apk",
-      "details": "-Autoswitch on WiFi max timeout reduced to 20 seconds\n-Fixed local DNS on non-custom server configurations\n-Minor TV UX/UI improvements",
+      "details": "-Autoswitch on WiFi max timeout reduced to 20 minutes\n-Fixed local DNS on non-custom server configurations\n-Minor TV UX/UI improvements",
       "update": {
         "nowarn": "4.100.1",
         "warnonce": "4.11.3",
