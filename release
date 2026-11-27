@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "4.11.2",
-  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.11.2/Happ.apk",
-  "details": "-UX/UI improvements for stories, sharing to TV, logs and other\n-Added fakedns support to xray tun\n-Stability improvements for subscription imports and concurrent updates\n-Added host params to WS settings\n-Autoswitch on WiFi max timeout reduced to 20 seconds\n-Fixed local DNS on non-custom server configurations\n-Other minor improvements and fixes",
+  "data": "4.12.0",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.12.0/Happ.apk",
+  "details": "-New UX/UI for per-app-proxy and reset screens\n-Fixed app update installation from the settings screen\n-Fixed cases of incorrect SS config generation\n-Fixed checkboxes values loss during subscriptions sharing with TV\n-Fixed priority of user kcp mtu value over default for xdns\n-Fixed 'hide all' button visibility for server-list\n-Other minor improvements and fixes",
   "filenum": 1168,
   "apk": {
     "block": [
@@ -22,14 +22,14 @@
       }
     },
     "stable": {
-      "version": "4.11.2",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.11.2/Happ.apk",
-      "details": "-UX/UI improvements for stories, sharing to TV, logs and other\n-Added fakedns support to xray tun\n-Stability improvements for subscription imports and concurrent updates\n-Added host params to WS settings\n-Autoswitch on WiFi max timeout reduced to 20 minutes\n-Fixed local DNS on non-custom server configurations\n-Other minor improvements and fixes",
+      "version": "4.12.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.12.0/Happ.apk",
+      "details": "-New UX/UI for per-app-proxy and reset screens\n-Fixed app update installation from the settings screen\n-Fixed cases of incorrect SS config generation\n-Fixed checkboxes values loss during subscriptions sharing with TV\n-Fixed priority of user kcp mtu value over default for xdns\n-Fixed 'hide all' button visibility for server-list\n-Other minor improvements and fixes",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.11.3",
-        "warnweek": "4.11.3",
-        "warnalways": "4.11.3",
+        "warnonce": "4.12.1",
+        "warnweek": "4.12.1",
+        "warnalways": "4.12.1",
         "updateonly": "3.26.2"
       }
     }
