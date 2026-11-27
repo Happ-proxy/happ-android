@@ -10,14 +10,14 @@
     "block": [
     ],
     "beta": {
-      "version": "4.12.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.12.0/Happ_beta.apk",
-      "details": "-New UX/UI for per-app-proxy and reset screens\n-Fixed app update installation from the settings screen\n-Fixed cases of incorrect SS config generation\n-Fixed checkboxes values loss during subscriptions sharing with TV\n-Fixed priority of user kcp mtu value over default for xdns\n-Fixed 'hide all' button visibility for server-list\n-Other minor improvements and fixes",
+      "version": "4.13.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.13.0/Happ_beta.apk",
+      "details": "-Updated UX/UI for VPN Settings & Excluded Routes screens\n-Improved text display options\n-Added basic subscriptions' User-Agent input validation\n-Fixed numbers formatting during export url generation\n-Fixed fragment export\n-Fixed statistics proxy speed calculation\n-Fixed several cases of subscriptions updates synchronization",
       "update": {
         "nowarn": "4.100.1",
-        "warnonce": "4.12.1",
-        "warnweek": "4.12.1",
-        "warnalways": "4.12.1",
+        "warnonce": "4.13.1",
+        "warnweek": "4.13.1",
+        "warnalways": "4.13.1",
         "updateonly": "3.26.2"
       }
     },
